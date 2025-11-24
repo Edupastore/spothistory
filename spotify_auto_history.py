@@ -15,6 +15,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     client_secret=CLIENT_SECRET,
     redirect_uri=REDIRECT_URI,
     scope=SCOPE
+    open_browser=False
 ))
 
 data = sp.current_user_recently_played(limit=50)
