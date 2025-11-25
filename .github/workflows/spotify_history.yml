@@ -2,27 +2,31 @@ name: Spotify History Fetcher
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # Cada 4 horas
-  workflow_dispatch:
+    - cron: "0 */4 * * *"   # Ejecuta cada 4 horas
+  workflow_dispatch:         # Permite ejecución manual
 
 jobs:
   fetch-history:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Clona el repo
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # 2️⃣ Configura Python
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
+      # 3️⃣ Instala dependencias
       - name: Install dependencies
         run: |
           pip install spotipy pandas
 
-      - name: Run script
+      # 4️⃣ Ejecuta el script de Spotify
+      - name: Run Spotify script
         env:
           SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
           SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
@@ -30,8 +34,11 @@ jobs:
         run: |
           python spotify_script.py
 
-      - name: Upload CSV Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: recent-tracks
-          path: recent_tracks.csv
+      # 5️⃣ Commit del CSV actualizado al repo privado
+      - name: Commit updated CSV
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add spotify_history.csv
+          git commit -m "Actualizar histórico Spotify" || echo "No hay cambios para commitear"
+          git push
