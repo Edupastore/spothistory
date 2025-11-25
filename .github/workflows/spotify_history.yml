@@ -1,30 +1,37 @@
-name: Guardar historial Spotify
+name: Spotify History Fetcher
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Cada 4 horas
-  workflow_dispatch:        # Permite lanzar manualmente
+    - cron: "0 */4 * * *"   # Cada 4 horas
+  workflow_dispatch:
 
 jobs:
-  run_spotify_script:
+  fetch-history:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Check out repository
+        uses: actions/checkout@v3
 
-      - name: Configurar Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.10'
 
-      - name: Instalar dependencias
+      - name: Install dependencies
         run: |
           pip install spotipy pandas
 
-      - name: Ejecutar script
+      - name: Run script
         env:
           SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
           SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
           SPOTIPY_REDIRECT_URI: ${{ secrets.SPOTIPY_REDIRECT_URI }}
-          SPOTIPY_CACHE: ${{ secrets.SPOTIPY_CACHE }}
-        run: python spotify_auto_history.py
+        run: |
+          python spotify_script.py
+
+      - name: Upload CSV Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: recent-tracks
+          path: recent_tracks.csv
