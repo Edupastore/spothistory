@@ -6,14 +6,18 @@ from spotipy.oauth2 import SpotifyOAuth
 CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
-CACHE_PATH = ".cache"
+CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")
+
+# Crear archivo .cache desde secret
+with open(".cache", "w") as f:
+    f.write(CACHE_CONTENT)
 
 sp = Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
     redirect_uri=REDIRECT_URI,
     scope="user-read-recently-played",
-    cache_path=CACHE_PATH,
+    cache_path=".cache",
     open_browser=False
 ))
 
