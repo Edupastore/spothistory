@@ -40,4 +40,4 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add spotify_hist_
+          git add spotify_history.csv
