@@ -11,7 +11,7 @@ CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
 
 DATA_PATH = "spotify_history.csv"
-CACHE_PATH = ".cache"   # Token se guarda aquí automáticamente
+CACHE_PATH = ".cache"
 
 # ----------------------
 # Autenticación
