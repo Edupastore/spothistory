@@ -3,19 +3,20 @@ import pandas as pd
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 
+# ---------------------- Configuración desde secrets ----------------------
 CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
-CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")
-
+CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")  # token guardado en secret
 DATA_PATH = "spotify_history.csv"
 CACHE_PATH = ".cache"
 
-# Crear archivo .cache desde secret
-with open(CACHE_PATH, "w") as f:
-    f.write(CACHE_CONTENT)
+# ---------------------- Crear archivo .cache si no existe ----------------------
+if CACHE_CONTENT and not os.path.exists(CACHE_PATH):
+    with open(CACHE_PATH, "w") as f:
+        f.write(CACHE_CONTENT)
 
-# Conexión a Spotify usando token preexistente
+# ---------------------- Conexión a Spotify ----------------------
 sp = Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
@@ -25,7 +26,7 @@ sp = Spotify(auth_manager=SpotifyOAuth(
     open_browser=False
 ))
 
-# Obtener últimas 50 reproducciones
+# ---------------------- Obtener últimas 50 reproducciones ----------------------
 data = sp.current_user_recently_played(limit=50)
 items = data.get("items", [])
 
@@ -43,7 +44,7 @@ for item in items:
 
 df_new = pd.DataFrame(rows)
 
-# Guardar histórico sin duplicados
+# ---------------------- Guardar histórico sin duplicados ----------------------
 if os.path.exists(DATA_PATH):
     df_old = pd.read_csv(DATA_PATH)
     df_total = pd.concat([df_old, df_new]).drop_duplicates(subset=["played_at"])
