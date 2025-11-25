@@ -4,37 +4,29 @@ from spotipy.oauth2 import SpotifyOAuth
 import spotipy
 
 # ----------------------
-# Configuración desde secrets
+# Configuración desde Secrets
 # ----------------------
 CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
-CACHE_SECRET = os.getenv("SPOTIPY_CACHE")
+
 DATA_PATH = "spotify_history.csv"
+CACHE_PATH = ".cache"   # Token se guarda aquí automáticamente
 
 # ----------------------
-# Crear el archivo .cache desde el Secret
-# ----------------------
-cache_path = ".cache"
-
-if CACHE_SECRET and not os.path.exists(cache_path):
-    with open(cache_path, "w") as f:
-        f.write(CACHE_SECRET)
-
-# ----------------------
-# Conexión a Spotify
+# Autenticación
 # ----------------------
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
     redirect_uri=REDIRECT_URI,
     scope="user-read-recently-played",
-    open_browser=False,
-    cache_path=cache_path
+    cache_path=CACHE_PATH,
+    open_browser=False
 ))
 
 # ----------------------
-# Obtener las 50 últimas reproducciones
+# Obtener últimas 50 reproducciones
 # ----------------------
 data = sp.current_user_recently_played(limit=50)
 items = data.get("items", [])
@@ -54,7 +46,7 @@ for item in items:
 df_new = pd.DataFrame(rows)
 
 # ----------------------
-# Guardar histórico en CSV sin duplicados
+# Guardar histórico sin duplicados
 # ----------------------
 if os.path.exists(DATA_PATH):
     df_old = pd.read_csv(DATA_PATH)
