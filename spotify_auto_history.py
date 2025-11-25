@@ -1,22 +1,14 @@
 import os
 import pandas as pd
+from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
-import spotipy
 
-# ----------------------
-# Configuración desde Secrets
-# ----------------------
 CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
-
-DATA_PATH = "spotify_history.csv"
 CACHE_PATH = ".cache"
 
-# ----------------------
-# Autenticación
-# ----------------------
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
+sp = Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
     redirect_uri=REDIRECT_URI,
