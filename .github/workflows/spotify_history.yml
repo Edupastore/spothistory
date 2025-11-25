@@ -13,6 +13,8 @@ jobs:
       # 1️⃣ Clona el repo
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # Esto permite push con github.token
 
       # 2️⃣ Configura Python
       - name: Set up Python
