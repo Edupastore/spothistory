@@ -8,22 +8,24 @@ CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
 CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")
 
+DATA_PATH = "spotify_history.csv"
+CACHE_PATH = ".cache"
+
 # Crear archivo .cache desde secret
-with open(".cache", "w") as f:
+with open(CACHE_PATH, "w") as f:
     f.write(CACHE_CONTENT)
 
+# Conexión a Spotify usando token preexistente
 sp = Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
     redirect_uri=REDIRECT_URI,
     scope="user-read-recently-played",
-    cache_path=".cache",
+    cache_path=CACHE_PATH,
     open_browser=False
 ))
 
-# ----------------------
 # Obtener últimas 50 reproducciones
-# ----------------------
 data = sp.current_user_recently_played(limit=50)
 items = data.get("items", [])
 
@@ -41,9 +43,7 @@ for item in items:
 
 df_new = pd.DataFrame(rows)
 
-# ----------------------
 # Guardar histórico sin duplicados
-# ----------------------
 if os.path.exists(DATA_PATH):
     df_old = pd.read_csv(DATA_PATH)
     df_total = pd.concat([df_old, df_new]).drop_duplicates(subset=["played_at"])
