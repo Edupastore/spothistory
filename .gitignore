@@ -1,0 +1,17 @@
+# Cache and secrets
+.cache
+*.env
+.env
+*.json
+
+# Python / common
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
