@@ -1,391 +1,393 @@
-played_at,track_name,artist,album,duration_ms,track_id
-2025-11-15T12:20:13.787Z,In the End,Linkin Park,Hybrid Theory (Bonus Edition),216880,60a0Rd6pjrkxjPbaKzXjfq
-2025-11-15T12:24:49.535Z,Dog Days Are Over,Florence + The Machine,Lungs (Deluxe Version),252818,456WNXWhDwYOSf5SpTuqxd
-2025-11-15T12:28:19.156Z,Sing,Travis,The Invisible Band,228800,4yA2SM7XCLkSgkBUSoZb5S
-2025-11-15T15:49:35.322Z,Where Is The Love?,Black Eyed Peas,Elephunk,272533,0xmjwnQ3FNE6HuWCt2nHdZ
-2025-11-15T20:23:34.130Z,Where Is The Love?,Black Eyed Peas,Elephunk,272533,0xmjwnQ3FNE6HuWCt2nHdZ
-2025-11-15T20:27:19.052Z,Bad Day,Daniel Powter,Daniel Powter,233640,0mUyMawtxj1CJ76kn9gIZK
-2025-11-15T20:34:49.109Z,The Real Slim Shady,Eminem,The Marshall Mathers LP,284200,3yfqSUWxFvZELEM4PmlwIR
-2025-11-15T20:40:28.933Z,Beautiful Day,U2,All That You Can't Leave Behind,248400,0gzqZ9d1jIKo9psEIthwXe
-2025-11-15T20:43:08.651Z,Sk8er Boi,Avril Lavigne,Let Go,204000,00Mb3DuaIH1kjrwOku9CGU
-2025-11-15T20:48:24.665Z,This Love,Maroon 5,Songs About Jane: 10th Anniversary Edition,206200,6ECp64rv50XVz93WvxXMGF
-2025-11-15T20:53:22.096Z,Can't Stop,Red Hot Chili Peppers,By the Way (Deluxe Edition),269000,3ZOEytgrvLwQaqXreDs2Jx
-2025-11-15T20:58:49.276Z,Lady - Hear Me Tonight,Modjo,Modjo (Remastered),307153,49X0LAl6faAusYq02PRAY6
-2025-11-15T21:03:51.542Z,The Scientist,Coldplay,A Rush of Blood to the Head,309600,75JFxkI2RXiU7L9VXzMkle
-2025-11-15T21:07:19.763Z,How You Remind Me,Nickelback,Silver Side Up,223840,0gmbgwZ8iqyMPmXefof8Yf
-2025-11-17T18:52:52.132Z,The Scientist,Coldplay,A Rush of Blood to the Head,309600,75JFxkI2RXiU7L9VXzMkle
-2025-11-18T19:07:23.078Z,BAJO ZERO,Natos y Waor,BAJO ZERO,217748,5bkHVqgHtm0QKoN7qdvclK
-2025-11-18T22:12:54.799Z,Delirium,Natos y Waor,Martes 13,226666,4vGEhkjT0MuSgCtfLuf2gi
-2025-11-20T19:51:08.474Z,Abracadabra,Lady Gaga,MAYHEM,223398,2LHNTC9QZxsL3nWpt8iaSR
-2025-11-20T19:54:34.671Z,Until I Found You,Stephen Sanchez,Until I Found You,177720,0T5iIrXA4p5GsubkhuBIKV
-2025-11-20T19:57:38.047Z,Beautiful Things,Benson Boone,Fireworks & Rollerblades,180304,3xkHsmpQCBMytMJNiDf3Ii
-2025-11-21T21:26:16.987Z,Tempestades de Sal,SES,Admirando a Condición,234000,5uNMPGKow60Fc2j0WCOwQY
-2025-11-22T10:52:38.652Z,"Night Fever - From ""Saturday Night Fever"" Soundtrack",Bee Gees,Saturday Night Fever (The Original Movie Soundtrack),211640,33ALuUDfftTs2NEszyvJRm
-2025-11-22T10:58:07.048Z,Hot Stuff,Donna Summer,Bad Girls,314760,2zMJN9JvDlvGP4jB03l1Bz
-2025-11-22T11:01:06.885Z,Heart of Gold - 2009 Remaster,Neil Young,Harvest (2009 Remaster),187013,1Q1b8eVkUPGlpSArl8JAVw
-2025-11-22T11:07:07.191Z,Piano Man,Billy Joel,Piano Man (Legacy Edition),339000,70C4NyhjD5OZUMzvWZ3njJ
-2025-11-22T11:11:37.375Z,Don't Go Breaking My Heart,Elton John,Rock Of The Westies,275440,7HW5WIw7ZgZORCzUxv5gW5
-2025-11-22T11:15:37.397Z,Black Betty,Ram Jam,Ram Jam,240335,6kooDsorCpWVMGc994XjWN
-2025-11-22T11:34:43.634Z,Hooked On A Feeling,Blue Swede,Hooked On A Feeling,172866,6Ac4NVYYl2U73QiTt11ZKd
-2025-11-22T13:44:03.539Z,Because the Night,Patti Smith,Easter,204800,0lIoY4ZQsdn5QzhraM9o9u
-2025-11-22T13:48:08.023Z,Hold the Line,TOTO,The Essential Toto,236106,17arUdDWEinOOVrrVUkEM7
-2025-11-22T13:51:34.386Z,It's a Heartache,Bonnie Tyler,Natural Force (Expanded Edition),215160,1Y7VG310Lf5IYP7sVOob4X
-2025-11-22T13:57:12.680Z,Smoke On The Water - Remastered 2012,Deep Purple,Machine Head (Remastered),340742,5MMnwYs0hIxkENRsbkWJ2G
-2025-11-22T17:57:00.734Z,Sultans Of Swing,Dire Straits,Dire Straits,348400,37Tmv4NnfQeb0ZgUC4fOJj
-2025-11-22T18:02:21.041Z,Miss You - Remastered,The Rolling Stones,Some Girls,288666,3hJLKtTpgct9Y9wKww0BiR
-2025-11-22T18:06:21.025Z,A Horse with No Name,America,America,252239,54eZmuggBFJbV7k248bTTt
-2025-11-22T18:09:20.825Z,Burning Love,Elvis Presley,Elvis (Fool),171533,7zMUCLm1TN9o9JlLISztxO
-2025-11-22T18:14:51.400Z,Carry on Wayward Son,Kansas,The Essential Kansas,322093,2SUpC3UgKwLVOS2FtZif9N
-2025-11-22T18:21:50.882Z,Riders on the Storm,The Doors,L.A. Woman,434720,14XWXWv5FoCbFzLksawpEe
-2025-11-22T18:28:51.668Z,September,"Earth, Wind & Fire","The Essential Earth, Wind & Fire",215080,3wpLkju0bJy89kjgdRys0j
-2025-11-22T19:46:37.767Z,Born to Be Alive - The Original,Patrick Hernandez,Born to Be Alive (The Original),188133,3XIEWK1V9n25PS9Vb6axj5
-2025-11-24T09:08:00.799Z,24K Magic,Bruno Mars,24K Magic,225983,6b8Be6ljOzmkOmFslEb23P
-2025-11-24T12:03:20.134Z,24K Magic,Bruno Mars,24K Magic,225983,6b8Be6ljOzmkOmFslEb23P
-2025-11-25T10:39:46.723Z,Born to Be Alive - The Original,Patrick Hernandez,Born to Be Alive (The Original),188133,3XIEWK1V9n25PS9Vb6axj5
-2025-11-25T10:43:46.810Z,Dust in the Wind,Kansas,Point Of Know Return (Expanded Edition),206266,6zeE5tKyr8Nu882DQhhSQI
-2025-11-25T10:46:47.143Z,You're The One That I Want - From “Grease”,John Travolta,Grease (The Original Motion Picture Soundtrack),169840,0B9x2BRHqj3Qer7biM3pU3
-2025-11-25T10:50:25.633Z,Grease - From “Grease”,Frankie Valli,Grease (The Original Motion Picture Soundtrack),205733,6X1D6qbVmK48uoOD9nIvVV
-2025-11-25T10:53:26.850Z,London Calling - Remastered,The Clash,London Calling (Remastered),199703,5jzma6gCzYtKB1DbEwFZKH
-2025-11-25T10:58:24.581Z,YMCA - Original Version 1978,Village People,YMCA,286800,54OR1VDpfkBuOY5zZjhZAY
-2025-11-25T11:02:46.926Z,I Was Made For Lovin' You,KISS,Dynasty,271240,07q0QVgO56EorrSGHC48y3
-2025-11-25T11:06:16.683Z,In the Summertime,Mungo Jerry,Electronically Tested,215800,36xVTZU8HMpcgEdlJ4I3Kv
-2025-11-25T18:16:32.175Z,Baba O'Riley,The Who,Who's Next (Deluxe Edition),300400,3qiyyUfYe7CRYLucrPmulD
-2025-11-25T18:59:57.085Z,Versace on the Floor,Bruno Mars,24K Magic,261240,0kN8xEmgMW9mh7UmDYHlJP
-2025-11-25T19:03:04.595Z,Chunky,Bruno Mars,24K Magic,186973,0mBKv9DkYfQHjdMcw2jdyI
-2025-11-25T19:06:23.482Z,Straight up & Down,Bruno Mars,24K Magic,198186,2mrZYZGmPFV3QOyYPZ1zsn
-2025-11-25T19:09:50.847Z,That's What I Like,Bruno Mars,24K Magic,206693,0KKkJNfGyhkQ5aFogxQAPU
-2025-11-25T19:14:33.541Z,Too Good to Say Goodbye,Bruno Mars,24K Magic,281826,0B0tYbVp7pDQAqKDhgMeaL
-2025-11-25T19:18:44.026Z,Calling All My Lovelies,Bruno Mars,24K Magic,250080,6ObpR8ek44tvWefQRcSo8K
-2025-11-25T19:21:55.562Z,Finesse,Bruno Mars,24K Magic,191000,5XMkENs3GfeRza8MfVAhjK
-2025-11-25T19:25:25.719Z,Perm,Bruno Mars,24K Magic,210053,1I6pKIyaBp4OebTGLJpCCC
-2025-11-25T19:29:15.860Z,Moonshine,Bruno Mars,Unorthodox Jukebox,228573,30raivfq7rSt5nKltiHfzG
-2025-11-25T19:32:46.285Z,BLOW (with Chris Stapleton & Bruno Mars),Ed Sheeran,No.6 Collaborations Project,209120,7hvO2qCwJVZxiyoA7c9i5d
-2025-11-25T19:36:23.761Z,New Light,John Mayer,Sob Rock,217426,4T6FWA703h6H7zk1FoSARw
-2025-11-25T19:40:47.840Z,Love The Way You Lie,Eminem,Recovery,263373,15JINEqzVMv3SvJTAXAKED
-2025-11-25T19:45:12.186Z,Adventure of a Lifetime,Coldplay,A Head Full of Dreams,263786,69uxyAqqPIsUyTO8txoP2M
-2025-11-25T19:49:14.364Z,The Man Who Can't Be Moved,The Script,The Script,241373,3nqqDo8CcCLke3ZoTgiOKf
-2025-11-25T20:15:38.038Z,"Signed, Sealed, Delivered I'm Yours",Blue,"Signed, Sealed, Delivered I'm Yours",215223,0Ofr6gEshedQxJuVAzoyud
-2025-11-26T00:26:21.028Z,El Roce De Tu Piel,Revolver,Pop Español De Los 90,314520,5JOAsrcpjA8lojuSoh8yax
-2025-11-26T16:14:52.668Z,Hey Brother,Avicii,True,255093,4lhqb6JvbHId48OUJGwymk
-2025-11-26T16:20:01.823Z,I Will Wait,Mumford & Sons,Babel,276720,1PuLHwFZoh5qYK89I5YBdZ
-2025-11-26T16:24:24.521Z,Do I Wanna Know?,Arctic Monkeys,AM,272394,5FVd6KXrgO9B3JPmC8OPst
-2025-11-26T16:27:37.440Z,Can't Feel My Face,The Weeknd,Beauty Behind The Madness,213520,22VdIZQfgXJea34mQxlt81
-2025-11-26T16:31:37.728Z,Just Give Me a Reason (feat. Nate Ruess),P!nk,The Truth About Love,242721,1mKXFLRA179hdOWQBwUk9e
-2025-11-26T16:35:37.409Z,Sail,AWOLNATION,Megalithic Symphony,259093,7ueP5u2qkdZbIPN2YA6LR0
-2025-11-26T16:53:59.085Z,Party Rock Anthem,LMFAO,Sorry For Party Rocking,262146,7mitXLIMCflkhZiD34uEQI
-2025-11-26T17:49:33.025Z,Safe and Sound,Capital Cities,In A Tidal Wave of Mystery,192789,5JVbvCHX10U2pLa5DEqGav
-2025-11-27T10:28:24.212Z,Safe and Sound,Capital Cities,In A Tidal Wave of Mystery,192789,5JVbvCHX10U2pLa5DEqGav
-2025-11-27T10:30:45.108Z,Demons,Imagine Dragons,Night Visions,177506,5qaEfEh1AtSdrdrByCP7qR
-2025-11-27T11:01:10.646Z,Levels - Radio Edit,Avicii,Levels,199906,5UqCQaDshqbIk3pkhy4Pjg
-2025-11-27T12:08:38.168Z,Levels - Radio Edit,Avicii,Levels,199906,5UqCQaDshqbIk3pkhy4Pjg
-2025-11-27T12:12:55.422Z,Sugar (feat. Francesco Yates),Robin Schulz,Sugar,219043,5tf1VVWniHgryyumXyJM7w
-2025-11-27T12:16:17.793Z,Price Tag,Jessie J,Who You Are (Platinum Edition),223053,2fTsFCKRFQ5M0igJgabnLA
-2025-11-27T12:21:45.540Z,Give Me Everything (feat. Nayer),Pitbull,Planet Pit (Deluxe Version),252306,4QNpBfC0zvjKqPJcyqBy9W
-2025-11-27T12:27:41.496Z,Unstoppable,Sia,This Is Acting,217746,059ACLUOyEcdruA2m9f2jd
-2025-11-27T13:13:40.173Z,Electric Love,BØRNS,Dopamine,218106,2GiJYvgVaD2HtM8GqD9EgQ
-2025-11-27T13:17:10.747Z,Electric Love,BØRNS,Dopamine,218106,2GiJYvgVaD2HtM8GqD9EgQ
-2025-11-27T13:19:40.040Z,Feel It Still,Portugal. The Man,Woodstock,163253,6QgjcU0zLnzq5OrUoSZ3OK
-2025-11-27T13:23:25.211Z,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Maroon 5,Hands All Over (Revised International Standard version),201493,7pYfyrMNPn3wtoCyqcTVoI
-2025-11-27T13:26:39.821Z,Always Remember Us This Way,Lady Gaga,A Star Is Born Soundtrack,210200,74iZuPGwyL33VlTr6jTnab
-2025-11-27T13:38:08.964Z,Uptown Funk (feat. Bruno Mars),Mark Ronson,Uptown Special,269658,32OlwWuMpZ6b0aN2RZOeMS
-2025-11-27T13:42:47.452Z,We Are Young (feat. Janelle Monáe),fun.,Some Nights,250626,5rgy6ghBq1eRApCkeUdJXf
-2025-11-27T17:06:05.349Z,Renegades,X Ambassadors,VHS,195200,0fYVliAYKHuPmECRs1pbRf
-2025-11-27T17:07:24.588Z,Renegades,X Ambassadors,VHS,195200,0fYVliAYKHuPmECRs1pbRf
-2025-11-27T17:10:55.180Z,Dark Horse,Katy Perry,PRISM,215672,4jbmgIyjGoXjY01XxatOx6
-2025-11-27T17:14:24.678Z,Circles,Post Malone,Hollywood's Bleeding,215280,21jGcNKet2qwijlDFuPiPb
-2025-11-27T17:18:54.756Z,Elastic Heart,Sia,1000 Forms Of Fear,257200,6kwAbEjseqBob48jCus7Sz
-2025-11-27T17:25:54.815Z,The Monster,Eminem,The Marshall Mathers LP2,250188,48RrDBpOSSl1aLVCalGl5C
-2025-11-27T17:30:24.548Z,A Sky Full of Stars,Coldplay,Ghost Stories,267866,0FDzzruyVECATHXKHFs9eJ
-2025-11-27T17:34:02.152Z,Habits (Stay High),Tove Lo,Queen Of The Clouds,209160,18AJRdgUoO9EYn11N7xzaT
-2025-11-27T17:37:25.211Z,Last Friday Night (T.G.I.F.),Katy Perry,Teenage Dream: The Complete Confection,230746,455AfCsOhhLPRc68sE01D8
-2025-11-27T17:41:00.834Z,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,The Papercut Chronicles II,210960,0qOnSQQF0yzuPWsXrQ9paz
-2025-11-27T18:26:10.237Z,Someone Like You,Adele,21,285240,3bNv3VuUOKgrf5hu3YcuRo
-2025-11-28T11:06:25.623Z,Blinding Lights,The Weeknd,After Hours,200040,0VjIjW4GlUZAMYd2vXMi3b
-2025-11-28T11:08:55.230Z,Mystical Magical,Benson Boone,Mystical Magical,165746,221eHga9f9Ne4f8D7WVgPT
-2025-11-28T11:12:25.104Z,Bam Bam (feat. Ed Sheeran),Camila Cabello,Bam Bam (feat. Ed Sheeran),205604,0QBzMgT7NIeoCYy3sJCof1
-2025-11-28T11:15:54.804Z,Golden,HUNTR/X,KPop Demon Hunters (Soundtrack from the Netflix Film),194607,1CPZ5BxNNd0n0nF4Orb9JS
-2025-11-28T11:18:55.492Z,I WANNA BE YOUR SLAVE,Måneskin,Teatro d'ira - Vol. I,173346,4pt5fDVTg5GhEvEtlz9dKk
-2025-11-28T11:22:54.994Z,Fortnight (feat. Post Malone),Taylor Swift,THE TORTURED POETS DEPARTMENT,228965,2OzhQlSqBEmt7hmkYxfT6m
-2025-11-28T11:27:24.976Z,Pepas,Farruko,Pepas,287120,5fwSHlTEWpluwOM0Sxnh5k
-2025-11-28T11:30:25.162Z,From The Start,Laufey,Bewitched,169573,43iIQbw5hx986dUEZbr3eN
-2025-11-28T11:34:25.296Z,Something in the Orange,Zach Bryan,Something in the Orange,228013,3WMj8moIAXJhHsyLaqIIHI
-2025-11-28T11:37:25.219Z,Strangers,Kenya Grace,Strangers,172964,5mjYQaktjmjcMKcUIcqz4s
-2025-11-28T11:40:25.550Z,Dance The Night - From Barbie The Album,Dua Lipa,Dance The Night (From Barbie The Album),176579,1vYXt7VSjH9JIM5oRRo7vA
-2025-11-28T11:43:55.302Z,Shivers,Ed Sheeran,=,207853,50nfwKoDiSYg8zOCREWAm5
-2025-11-28T12:30:54.428Z,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),171291,2FQrifJ1N335Ljm3TjTVVf
-2025-11-28T13:55:29.818Z,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),171291,2FQrifJ1N335Ljm3TjTVVf
-2025-11-28T13:58:29.821Z,End of Beginning,Djo,DECIDE,159245,3qhlB30KknSejmIvZZLjOD
-2025-11-28T14:00:59.896Z,Goosebumps - Remix,Travis Scott,Goosebumps (Remix),162802,5uEYRdEIh9Bo4fpjDd4Na9
-2025-11-28T14:04:05.941Z,Heaven,Niall Horan,The Show,186043,5FQ77Cl1ndljtwwImdtjMy
-2025-11-28T14:08:48.399Z,Not Like Us,Kendrick Lamar,Not Like Us,274192,6AI3ezQ4o3HUoP6Dhudph3
-2025-11-28T14:11:11.348Z,love nwantiti (ah ah ah),CKay,CKay The First,145800,2Xr1dTzJee307rmrkt8c0g
-2025-11-28T14:14:44.694Z,DÁKITI,Bad Bunny,DÁKITI,205090,47EiUVwUp4C9fGccaPuUCS
-2025-11-28T18:56:17.244Z,Anti-Hero,Taylor Swift,Midnights,200690,0V3wPSX9ygBnCm8psDIegu
-2025-11-29T22:58:09.685Z,Anti-Hero,Taylor Swift,Midnights,200690,0V3wPSX9ygBnCm8psDIegu
-2025-11-29T23:01:38.154Z,The Box,Roddy Ricch,Please Excuse Me for Being Antisocial,196652,0nbXyq5TXYPCO7pr3N8S4I
-2025-11-29T23:04:08.957Z,Kings & Queens,Ava Max,Heaven & Hell,162398,7a53HqqArd4b9NF4XAmlbI
-2025-11-29T23:07:38.015Z,vampire,Olivia Rodrigo,GUTS,219724,1kuGVB7EU95pJObxwvfwKS
-2025-11-29T23:11:38.005Z,Little Bit of Love,Tom Grennan,Little Bit of Love,226268,2sX7lJXsOYGP1Us6CqM9t1
-2025-11-29T23:15:38.275Z,Tití Me Preguntó,Bad Bunny,Un Verano Sin Ti,243716,1IHWl5LamUGEuP4ozKQSXZ
-2025-11-29T23:19:38.072Z,Austin (Boots Stop Workin'),Dasha,What Happens Now?,171782,2uqYupMHANxnwgeiXTZXzd
-2025-11-29T23:22:38.498Z,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,Save Your Tears (Remix),191013,37BZB0z9T8Xu7U3e65qxFy
-2025-11-29T23:25:07.951Z,My Love Mine All Mine,Mitski,The Land Is Inhospitable and So Are We,137773,3vkCueOmm7xQDoJ17W1Pm3
-2025-11-29T23:27:08.175Z,Romantic Homicide,d4vd,Romantic Homicide,132630,1xK59OXxi2TAAAbmZK0kBL
-2025-11-29T23:30:37.986Z,Stick Season,Noah Kahan,Stick Season,182346,0mflMxspEfB0VbI1kyLiAv
-2025-11-29T23:33:38.313Z,Until I Found You,Stephen Sanchez,Until I Found You,177720,0T5iIrXA4p5GsubkhuBIKV
-2025-11-29T23:36:08.234Z,Boyfriend,Dove Cameron,Boyfriend,153000,59CfNbkERJ3NoTXDvoURjj
-2025-11-29T23:39:38.201Z,Love Me Not,Ravyn Lenae,Bird's Eye,213466,4WFgvKVfEhb3IUAFGrutTR
-2025-11-29T23:43:08.404Z,luther (with sza),Kendrick Lamar,GNX,177598,2CGNAOSuO1MEFCbBRgUzjd
-2025-11-29T23:47:08.595Z,Easy On Me,Adele,30,224694,46IZ0fSY2mpAiktS3KOqds
-2025-11-29T23:49:38.533Z,Mood (feat. iann dior),24kGoldn,El Dorado,140525,4jPy3l0RUwlUI9T5XHBW2m
-2025-11-30T08:59:38.977Z,Die With A Smile,Lady Gaga,Die With A Smile,251667,2plbrEY59IikOBgBGLjaoe
-2025-11-30T09:00:18.434Z,Die With A Smile,Lady Gaga,Die With A Smile,251667,2plbrEY59IikOBgBGLjaoe
-2025-11-30T09:02:49.934Z,Unholy (feat. Kim Petras),Sam Smith,Unholy (feat. Kim Petras),156943,3nqQXoyQOWXiESFLlDF1hG
-2025-11-30T09:05:50.677Z,Woman,Doja Cat,Planet Her,172626,6Uj1ctrBOjOas8xZXGqKk4
-2025-11-30T09:09:19.747Z,Ferrari,James Hype,Ferrari,186661,4zN21mbAuaD0WqtmaTZZeP
-2025-11-30T09:12:52.007Z,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,MONTERO,212352,5Z9KJZvQzH6PFmb8SNkxuk
-2025-11-30T09:15:49.026Z,SNAP,Rosa Linn,SNAP,179551,5hx7w26Zi3zafMgvMTUqF6
-2025-11-30T09:19:18.757Z,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,228639,51ZQ1vr10ffzbwIjDCwqm4
-2025-11-30T09:23:20.190Z,Ghost,Justin Bieber,Justice,153190,6I3mqTwhRpn34SLVafSH7G
-2025-11-30T09:30:20.549Z,Water,Tyla,Water,200255,5aIVCx5tnk0ntmdiinnYvw
-2025-11-30T09:40:49.157Z,Templars,Sabaton,Legends,294000,0MxqiUhIbMwIEOYTgdNbxb
-2025-11-30T09:45:20.341Z,"I, Emperor",Sabaton,Legends,255973,3CZDkpmq245kzvCe44P2hM
-2025-11-30T09:49:18.623Z,Amaranth,Nightwish,Dark Passion Play,231444,0RsOUnm1wNpbXxZ8a4abOP
-2025-11-30T09:52:49.537Z,Live or Die (feat. Joakim Brodén),Apocalyptica,Live Or Die (feat. Joakim Brodén),224164,2tSyGmqhFvYongMdFaQNe3
-2025-11-30T09:55:50.475Z,Skal,Miracle Of Sound,Level 12,168948,6ybRWbM4jdku0Pk8SzjORB
-2025-11-30T12:17:37.328Z,Faster,Within Temptation,The Unforgiving,263973,4XBtYPGMAYJkuJu2w4pmYl
-2025-11-30T19:06:43.760Z,Faster,Within Temptation,The Unforgiving,263973,4XBtYPGMAYJkuJu2w4pmYl
-2025-11-30T19:10:13.845Z,Soldier of Heaven,Sabaton,The War to End All Wars,218000,2c03eSv5IkwbDty49pKg1L
-2025-11-30T19:13:44.863Z,The Wheel,Imperial Age,New World,220252,5KDF1z9oQjW2RuJfdqkqH2
-2025-11-30T19:18:44.824Z,Élan,Nightwish,Endless Forms Most Beautiful (Deluxe Version),287000,5oAvb7LpUBwQfBtQ6hmS4Q
-2025-11-30T19:22:45.036Z,The Call of the Mountains,Eluveitie,Origins,253896,0vTEksNDRuJxDMLOOgn0fA
-2025-11-30T19:26:59.263Z,Valhalla Calling - Metal Version,Miracle Of Sound,Valhalla Calling (Metal Version),226339,5no8377qvCNtxsaTKR6WUt
-2025-11-30T19:30:15.333Z,To Hell and Back,Sabaton,Heroes,206546,1BrgjqSg9du0lj3TUMLluL
-2025-12-01T10:13:37.244Z,The Ketchup Song (Aserejé) - Spanish Version,Las Ketchup,Aserejé (The Ketchup Song),213000,6NG2IIXZfC5Notpz0GIODU
-2025-12-01T15:03:27.922Z,Run Away With Me,Carly Rae Jepsen,Emotion (Deluxe),251320,1VKTdQTrcP0cMdySaCEj7F
-2025-12-01T18:38:32.604Z,Run Away With Me,Carly Rae Jepsen,Emotion (Deluxe),251320,1VKTdQTrcP0cMdySaCEj7F
-2025-12-01T18:42:05.109Z,Don't You Worry Child - Radio Edit,Swedish House Mafia,Don't You Worry Child,212862,2V65y3PX4DkRhy1djlxd9p
-2025-12-01T18:46:03.108Z,Rather Be (feat. Jess Glynne),Clean Bandit,Rather Be (feat. Jess Glynne),227833,3s4U7OHV7gnj42VV72eSZ6
-2025-12-01T18:50:32.347Z,Some Nights,fun.,Some Nights,277040,67WTwafOMgegV6ABnBQxcE
-2025-12-01T18:54:32.157Z,We Found Love,Rihanna,Talk That Talk,215226,0U10zFw4GlBacOy9VDGfGL
-2025-12-01T18:58:32.465Z,Blurred Lines,Robin Thicke,Blurred Lines (Deluxe),263826,0n4bITAu0Y0nigrz3MFJMb
-2025-12-01T19:02:32.361Z,Grenade,Bruno Mars,Doo-Wops & Hooligans,222091,4lLtanYk6tkMvooU0tWzG8
-2025-12-01T19:06:02.405Z,ocean eyes,Billie Eilish,dont smile at me,200379,7hDVYcQq6MxkdJGweuCtl9
-2025-12-01T19:10:02.620Z,I'm Not The Only One,Sam Smith,In The Lonely Hour,239316,7795WJLVKJoAyVoOtCWqXN
-2025-12-02T20:15:37.579Z,"Yes Sir, I Can Boogie",Baccara,The Collection & Tracklisting,273866,2LScqpywMqGcnum6nNaxXX
-2025-12-04T10:21:17.822Z,Liquor Store Blues (feat. Damian Marley),Bruno Mars,Doo-Wops & Hooligans,229383,1ewMCmw7qCb5a9ttqiyemu
-2025-12-04T10:28:00.519Z,Animales hambrientos,Desakato,La Teoría del Fuego,201649,3C4PLynbAIM9y2JTykZxYV
-2025-12-04T10:32:18.949Z,Lo Mismo,Free City,Lo Mismo,256834,1WFiOnPtvpFLeVqKwHYmoU
-2025-12-04T10:36:21.968Z,Muérdeles,La Raíz,Entre poetas y presos,242602,0LL7SugpvjCJLezhshIDae
-2025-12-04T11:14:58.347Z,Coconut Skins,Damien Rice,9,225373,29ZwHWh3lI43nAFnVBOagN
-2025-12-04T11:20:42.695Z,The Professor & La Fille Danse - Live,Damien Rice,B-Sides,308133,0EcVXmoXnOrqSlfog2Fay3
-2025-12-04T11:42:17.063Z,The Blower's Daughter,Damien Rice,O,286653,5yyRH93h4Pm6tXXYTxt7ea
-2025-12-04T11:45:50.886Z,Zeinen Ederra Izango Den,ZETAK,Zeinen Ederra Izango Den,185714,0yS9XxRk7iiIiqDfifMCVg
-2025-12-04T11:49:35.165Z,Pater Noster,ZETAK,Pater Noster,217859,6unGvxYQbOcJoe67SkcbKt
-2025-12-04T11:50:22.618Z,Guui Herriyen,ZETAK,Zeinen Ederra Izango Den,53434,2WyUZEPeigfN2VMK7kDAyv
-2025-12-04T11:53:49.936Z,ZU,ZETAK,AAZTIYEN,187732,7og13nwwpYm8EBqXKDjeUs
-2025-12-04T11:57:02.834Z,Errepidean,ZETAK,Errepidean,206706,3MFE8qfmG45TIiK07E5qTA
-2025-12-04T12:00:39.715Z,Hileta Kantu Nafarra,ZETAK,Hileta Kantu Nafarra,228285,2zCDgzarWnLB2ikcXb5S1O
-2025-12-04T18:44:52.804Z,Hegan,ZETAK,Zeinen Ederra Izango Den,212365,6ns0yMrMWzI6XrUuzwFSn7
-2025-12-04T18:54:22.766Z,Pa amb Oli I Sal,ZETAK,Pa amb Oli I Sal,198505,6wrdLhlCg17eTHblOb4ENW
-2025-12-04T18:57:59.138Z,NON SARTU ZARA,ZETAK,AAZTIYEN,216043,64tBeGNqEKdJlBiPJoC4O2
-2025-12-04T19:01:04.188Z,Suziri Bi,ZETAK,Suziri Bi,184720,1Xi4RN562sU7358QZN9Gs2
-2025-12-04T19:04:13.605Z,ZU,ZETAK,ZU,188538,0l2j66xknZyOqVbwcCh4iF
-2025-12-04T19:05:29.985Z,AAZTIYEN,ZETAK,AAZTIYEN,74952,0cbNDhHWFpIysJEajWfkOQ
-2025-12-04T19:10:30.937Z,Hitzeman,ZETAK,Zeinen Ederra Izango Den,191005,5AM7VpEcyrjpKVAh7ZZNxx
-2025-12-04T19:14:08.716Z,In the End,Linkin Park,Hybrid Theory (Bonus Edition),216880,60a0Rd6pjrkxjPbaKzXjfq
-2025-12-04T19:18:03.045Z,Kryptonite,3 Doors Down,The Better Life,233933,6ZOBP3NvffbU4SZcrnt1k6
-2025-12-04T19:21:11.380Z,Numb,Linkin Park,Meteora,187520,2nLtzopw4rPReszdYBJU6h
-2025-12-04T19:25:40.643Z,Can't Stop,Red Hot Chili Peppers,By the Way (Deluxe Edition),269000,3ZOEytgrvLwQaqXreDs2Jx
-2025-12-04T19:28:23.580Z,Faint,Linkin Park,Meteora,162106,4Yf5bqU3NK4kNOypcrLYwU
-2025-12-04T19:33:46.013Z,21 Guns,Green Day,21st Century Breakdown,322040,3IHHqmfKJHyI0obINUdg1W
-2025-12-04T19:37:20.452Z,Somewhere I Belong,Linkin Park,Meteora (Bonus Edition),213933,3fjmSxt0PskST13CSdBUFx
-2025-12-04T19:41:05.093Z,How You Remind Me,Nickelback,Silver Side Up,223840,0gmbgwZ8iqyMPmXefof8Yf
-2025-12-04T19:44:30.845Z,What I've Done,Linkin Park,Minutes to Midnight,205226,18lR4BzEs7e3qzc0KVkTpU
-2025-12-04T19:50:05.671Z,Snow (Hey Oh),Red Hot Chili Peppers,Stadium Arcadium,334666,2aibwv5hGXSgw7Yru8IYTO
-2025-12-04T19:53:46.176Z,The Emptiness Machine,Linkin Park,From Zero,190427,1EDPVGbyPKJPeGqATwXZvN
-2025-12-05T09:47:55.998Z,Tiempo de cobardes,Desakato,La Teoría del Fuego,128983,0A8NdVaoq6XchYXbRX33Y1
-2025-12-05T09:51:26.122Z,La hoguera,Desakato,La Teoría del Fuego,202069,56LGeNOkt5D5GykVJmiPAb
-2025-12-05T09:55:26.111Z,Sonrisa certera,Desakato,Inercia,225720,3rvtqJnthCcDIFRDSuiD8q
-2025-12-05T09:57:56.035Z,Héroes,Desakato,Buen Viaje,158498,61i6mK8O4fxmrDkpy2PIyV
-2025-12-05T10:02:26.242Z,Tu avalancha,Desakato,La Teoría del Fuego,269376,3eSzA7v3zMuwAlG2l7etxQ
-2025-12-05T10:05:26.246Z,El último hombre,Desakato,Inercia,185040,3YvIQBFDpMqaK1jCWsa5P7
-2025-12-05T10:08:56.213Z,El mio camín,Desakato,Miseria sangre y plomo,193826,3juTIU1kKeQ1TjQfsq46VI
-2025-12-05T10:12:26.149Z,Estigma,Desakato,La Teoría del Fuego,210194,7pSpn3a0UgEnJA3zMCCSGk
-2025-12-06T21:21:48.082Z,L'Estrueldu,Desakato,La Miel de Las Flores Muertas,256048,0HAsMcJLccUxEvWYe7KtY1
-2025-12-08T12:56:01.798Z,Little L,Jamiroquai,A Funk Odyssey,295400,7hhclvecTpNxNNRCk7NUoc
-2025-12-08T12:58:37.026Z,Virtual Insanity - Remastered 2006,Jamiroquai,Driving Songs,229360,4UQDZlZhGUDoYMohwrY28v
-2025-12-08T13:06:55.256Z,Templars,Sabaton,Legends,294000,0MxqiUhIbMwIEOYTgdNbxb
-2025-12-08T13:09:24.353Z,Beautiful Things,Benson Boone,Fireworks & Rollerblades,180304,3xkHsmpQCBMytMJNiDf3Ii
-2025-12-08T13:12:45.674Z,In the End,Linkin Park,Hybrid Theory (Bonus Edition),216880,60a0Rd6pjrkxjPbaKzXjfq
-2025-12-08T13:27:06.102Z,ZU,ZETAK,ZU,188538,0l2j66xknZyOqVbwcCh4iF
-2025-12-08T13:29:40.718Z,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),171291,2FQrifJ1N335Ljm3TjTVVf
-2025-12-08T13:38:34.262Z,Gilimix,El Reno Renardo,Regreso al Metalverso,529600,7h0mJ78aXX6dtTU1NKidcW
-2025-12-08T13:41:02.348Z,El Pais de Alicia,Envidia Kotxina,Difícil Ser Humano,183635,7xi20jr5Q9kMuI9ycqxcpq
-2025-12-08T13:44:03.205Z,Sin Domesticar,Free City,Sin Domesticar,204513,0GimXD7LVxYV0GSRKpZJcP
-2025-12-08T16:40:32.240Z,The Emptiness Machine,Linkin Park,The Emptiness Machine,190427,2PnlsTsOTLE5jnBnNe2K0A
-2025-12-08T19:48:22.525Z,El sombrerero loco,Mägo de Oz,El sombrerero loco,270666,5W6B8o2GIICi43uDMNIFHT
-2025-12-08T19:52:16.346Z,Sail,AWOLNATION,Megalithic Symphony,259093,7ueP5u2qkdZbIPN2YA6LR0
-2025-12-08T19:56:18.256Z,Rockstar - 2020 Remaster,Nickelback,All The Right Reasons (15th Anniversary Expanded Edition),255493,05tlUh0E6IFks9sCQguQKN
-2025-12-08T20:00:07.674Z,Kryptonite,3 Doors Down,The Better Life,233933,6ZOBP3NvffbU4SZcrnt1k6
-2025-12-08T20:02:16.651Z,End of Beginning,Djo,DECIDE,159245,3qhlB30KknSejmIvZZLjOD
-2025-12-08T20:05:09.712Z,Somewhere I Belong,Linkin Park,Meteora (Bonus Edition),213933,3fjmSxt0PskST13CSdBUFx
-2025-12-08T20:09:10.105Z,Abracadabra,Lady Gaga,MAYHEM,223398,2LHNTC9QZxsL3nWpt8iaSR
-2025-12-08T20:13:11.436Z,Not Like Us,Kendrick Lamar,Not Like Us,274192,6AI3ezQ4o3HUoP6Dhudph3
-2025-12-08T20:16:02.283Z,Until I Found You,Stephen Sanchez,Easy On My Eyes,176666,6VhuP99TE6gYNQRJIlAWFD
-2025-12-08T20:19:39.753Z,Something in the Orange,Zach Bryan,Something in the Orange,228013,3WMj8moIAXJhHsyLaqIIHI
-2025-12-08T20:23:23.737Z,Little Bit of Love,Tom Grennan,Evering Road (Deluxe),226268,3Iba59sFmGhQ4kbCY5L8AX
-2025-12-09T19:31:53.005Z,Iris,The Goo Goo Dolls,Dizzy up the Girl,289533,6Qyc6fS4DsZjB2mRW9DsQs
-2025-12-09T19:36:46.541Z,The Fate of Ophelia,Taylor Swift,The Life of a Showgirl,226073,53iuhJlwXhSER5J2IYYv1W
-2025-12-09T19:42:53.725Z,la noia,Angelina Mango,poké melodrama,189124,3nuIiyDd0pDiD5tIqccFA5
-2025-12-09T19:45:51.795Z,Palabra Prohibida,Samuraï,Palabra Prohibida,176881,4sRulaggpSTT3mLCZsaJ5v
-2025-12-09T20:00:40.913Z,Beso Nuclear,Samuraï,Beso Nuclear,161074,6I5XNhtSdKhOj72qcryPry
-2025-12-09T20:03:30.955Z,Beso Nuclear,Samuraï,Beso Nuclear,161074,6I5XNhtSdKhOj72qcryPry
-2025-12-09T20:06:30.925Z,Dejándolo Pasar,Samuraï,Dejándolo Pasar,179112,7xIo66YiwRlfh0LLweE8XT
-2025-12-09T20:09:01.864Z,Sin Freno,Samuraï,Sin Freno,160130,2ywURcm20LeyocKwrkUr0c
-2025-12-09T20:12:31.376Z,Tiro Al Aire,Samuraï,Tiro Al Aire,200145,1GTqOaoThQ64CQyk4MfiWy
-2025-12-09T20:16:01.156Z,Tiro Al Aire,Samuraï,Tiro Al Aire,200145,1GTqOaoThQ64CQyk4MfiWy
-2025-12-09T20:18:30.957Z,Mechero,Samuraï,Mechero,155392,2EJeJwsC9ApcPx8rxB5OwO
-2025-12-09T20:21:31.141Z,Corazón Quemado,Samuraï,El Silencio Del Ruido,185706,7sOnyiXHWNvCJ9XF6uCZDK
-2025-12-09T20:25:01.128Z,Tal para cual,Samuraï,Tal para cual,193283,20lH9g1zUQBM33qTljs4kv
-2025-12-09T20:27:30.867Z,Baja confirmada,Samuraï,Baja confirmada,148604,2IaZrh7RPuJy9QX9OTzxuC
-2025-12-09T20:30:01.086Z,Beso Nuclear,Samuraï,Artillería,161074,72FUGEWUO9Z5TB3ybJzOUL
-2025-12-09T20:33:01.431Z,Quien No Quiera Que No Mire,Samuraï,El Silencio Del Ruido,174560,0ZIhzIzHV3topmEiJfP2m8
-2025-12-09T20:35:31.164Z,El Principio de algo,La La Love You,Blockbuster,147907,10KB4HkYIpNOd0QhyohMre
-2025-12-09T20:38:31.090Z,Pared Y Espada,Samuraï,Pared Y Espada,177048,5PbtLcDMOl5kTIc6LtMk9H
-2025-12-10T09:04:57.822Z,Lo Que Vivimos,Samuraï,El Silencio Del Ruido,218946,5khstMoke8CiGc3K7Ln4RS
-2025-12-10T11:10:48.054Z,Mila doinu aidien,Gatibu,Zoramena,275725,0B7x1MtFMegr6SbZaQL2oF
-2025-12-10T11:13:59.388Z,Los tengo todos,Extremoduro,Dónde Están Mis Amigos,177960,34uk1gSxF411ra83bINKAW
-2025-12-10T11:17:34.051Z,Cabezabajo,Extremoduro,Agila,220666,79BcjoCZCkSTYp5qTJ3zWb
-2025-12-10T11:20:29.712Z,Relación convencional,Extremoduro,Deltoya,182373,3ByWlPzsFEU9pqClQQZ8tv
-2025-12-10T11:26:11.454Z,Ni príncipes ni princesas,Extremoduro,Somos Unos Animales,261266,6Akcoj69QxDwMp16Y8SSw9
-2025-12-10T11:29:31.813Z,Malos pensamientos,Extremoduro,Dónde Están Mis Amigos,194026,6EjKYTvWCqaL7p6fKgtYxU
-2025-12-10T11:33:52.109Z,Con un latido del reloj,Extremoduro,Deltoya,224666,0J41HpWfXZbaQaEuarMxul
-2025-12-10T11:38:31.989Z,Buitre no come alpiste,Extremoduro,"Yo, Minoría Absoluta",256706,5hUgS1LLB7o74ixqFEx70e
-2025-12-10T11:41:47.631Z,Desidia,Extremoduro,Somos Unos Animales,270893,3UGoPGvg9ZMtcpVVsUNhmX
-2025-12-10T11:48:11.590Z,Sin dios ni amo,Extremoduro,Dónde Están Mis Amigos,230840,757DDsFiOCwT6i20fKJl3h
-2025-12-10T12:27:35.869Z,Golden,HUNTR/X,KPop Demon Hunters (Soundtrack from the Netflix Film),194607,1CPZ5BxNNd0n0nF4Orb9JS
-2025-12-10T12:30:14.587Z,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),158040,3KkXRkHbMCARz0aVfEt68P
-2025-12-10T12:33:50.273Z,Circles,Post Malone,Hollywood's Bleeding,215280,21jGcNKet2qwijlDFuPiPb
-2025-12-10T12:38:41.908Z,Without Me,Eminem,The Eminem Show,290320,7lQ8MOhq6IN2w8EYcFNSUk
-2025-12-10T13:04:02.251Z,Cerca del suelo,Extremoduro,"Yo, Minoría Absoluta",281320,1FKKvyrgMdJFwf0NdM7P5Q
-2025-12-10T13:10:00.355Z,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,MONTERO,212352,5Z9KJZvQzH6PFmb8SNkxuk
-2025-12-10T13:13:34.121Z,Beggin',Måneskin,Chosen,211560,3Wrjm47oTz2sjIgck11l5e
-2025-12-10T13:15:53.866Z,Mood (feat. iann dior),24kGoldn,El Dorado,140525,4jPy3l0RUwlUI9T5XHBW2m
-2025-12-10T13:21:03.598Z,J.D. la central nuclear,Extremoduro,Somos Unos Animales,89515,5rZE6DL4qV71EqoBl9W4dT
-2025-12-10T13:24:13.097Z,Perro callejero,Extremoduro,Somos Unos Animales,179219,6Hv6wCRWToiYmeCUi87gWs
-2025-12-10T13:28:17.362Z,Resolución,Extremoduro,Somos Unos Animales,233023,4oUYBQ1ZUk2wfVxCImKyOo
-2025-12-10T18:00:36.858Z,La carrera,Extremoduro,Agila,136200,4JQjChfJuCwGPYTpWfIZuw
-2025-12-10T18:03:37.128Z,Ábreme el pecho y registra,Extremoduro,Agila,210400,25ue5YVxjkihYJKpu1Lebt
-2025-12-10T18:17:17.958Z,Pedrá,Extremoduro,Pedrá,1768080,4h40ugBk8xtnFGd79AYW8l
-2025-12-10T18:58:12.444Z,Pedrá,Extremoduro,Pedrá,1768080,4h40ugBk8xtnFGd79AYW8l
-2025-12-11T11:16:05.675Z,Pedrá,Extremoduro,Pedrá,1768080,4h40ugBk8xtnFGd79AYW8l
-2025-12-11T11:20:56.069Z,A fuego,Extremoduro,"Yo, Minoría Absoluta",323226,3WK3ejrcg2sOILqcxYaykU
-2025-12-11T11:24:56.233Z,Serenade,Dover,Devil Came to Me,234280,0xnTICdCDK4PD2ZPZ6Xeu7
-2025-12-11T11:30:56.335Z,Nada que perder,Robe,Se nos lleva el aire,370000,3M66E9SoBkWFJxcSEv2vuO
-2025-12-11T13:45:35.189Z,Rojitas,Extrechinato y Tu,Poesía Básica,232000,5Srks36XWpQoF47EYF7ExI
-2025-12-11T17:11:41.294Z,Quemando tus recuerdos,Extremoduro,Somos Unos Animales,351094,2Eci1fdlsCodLzAA4v48w7
-2025-12-11T17:25:10.005Z,Tango suicida,Extremoduro,Material defectuoso,487853,2YBo7GBtEda9t7RtcwqArt
-2025-12-11T17:34:21.024Z,Si te vas...,Extremoduro,Material defectuoso,516666,2x59pa3xDf8hHZ4N3f5fGQ
-2025-12-11T17:43:38.389Z,El camino de las utopías,Extremoduro,Para todos los públicos,450546,7qXpGAur9Lx3ysYBs4He6j
-2025-12-11T17:49:41.374Z,Locura transitoria,Extremoduro,Para todos los públicos,494773,6DWAOntbxkpsgKs9iJDEhW
-2025-12-11T17:52:42.038Z,No me calientes que me hundo - Versión 2004,Extremoduro,Grandes exitos y fracasos (Episodio 1º),172053,0Iwnl26lJCOtbyAnsIfDNW
-2025-12-11T17:57:39.879Z,Pequeño rocanrol endémico,Extremoduro,Para todos los públicos,308080,5Wq8rq9qXAzCHbVNDighez
-2025-12-11T18:04:39.955Z,Primer movimiento: el sueño,Extremoduro,La ley innata,363653,5d0Keu9WXiN1XZsAG88VcF
-2025-12-11T18:15:09.830Z,Calle Esperanza s/n,Extremoduro,Material defectuoso,426706,7K8F9rBAI55yX5xBIEiD2e
-2025-12-11T18:18:39.878Z,De acero,Extremoduro,Deltoya,223733,3bHBZyPLWwpaWPs0waC7Cb
-2025-12-11T19:27:24.867Z,Ramón,Platero Y Tu,Coleccion,300000,6YKdxcu4BRurnt9InJGz96
-2025-12-11T19:30:38.910Z,Correcaminos ¡Estate al loro!,Extremoduro,Agila,152973,6f6SOVV9QJjWnwART9RgQJ
-2025-12-11T19:33:45.583Z,Sucede - Versión 2004,Extremoduro,Canciones 1989-2013,186000,4DlCtFa8erNnJvSkSBAEJH
-2025-12-11T19:38:41.064Z,Papel secante - Instrumental,Extremoduro,Canciones sin voz,295053,4Yq2MaEUWHbkIiVDhDlssn
-2025-12-11T19:50:03.032Z,Esclarecido,Extremoduro,Esclarecido,449962,5wvOG6Hganxlt3LVnyuuKI
-2025-12-11T19:57:18.548Z,"Mis amigos (feat. Robe, Fito y Fitipaldis)",The Flying Rebollos,Esto Huele A Pasta,98173,3Wa4tTqFRya2tUlB3fUpgd
-2025-12-11T20:01:38.981Z,Doniene,Gatibu,Disko infernu,253933,6fK3spY7xpqY3tIjsLJTca
-2025-12-11T20:06:39.869Z,Mila doinu aidien,Gatibu,Zoramena,275725,0B7x1MtFMegr6SbZaQL2oF
-2025-12-11T20:10:20.745Z,Miro La Ventana,Neurastenia,Todo Es Mentira,209586,55HPh9JTMztjnChriXVX7n
-2025-12-11T20:13:09.681Z,Barrancos rocosos,La Gripe y Tú,Empapado en sudor,166973,6OOO2Ka3Sa5fkV0rxum1Pz
-2025-12-11T20:16:40.832Z,Awakane,La Gripe y Tú,Empapado en sudor,204466,6M0uMJJNvA6xvVEBmULkJ6
-2025-12-11T20:22:03.749Z,Amor Sucio,Ramone,Rompe!,156084,1S3yQtuVzlE0RH3PS5Zdah
-2025-12-11T20:28:33.493Z,La Playa,Ramone,Rompe!,189056,0J6u7q4vYl9uJ7rXywNXWE
-2025-12-11T20:34:34.724Z,No Tengo Ná,Tabletom,7. 000 Kilos,346760,2s3JO1gOE51oPmxkJmTTmq
-2025-12-11T21:36:22.592Z,Puta,Extremoduro,"Yo, Minoría Absoluta",322880,30M1XJhkJdkGrgXZ1TpXSS
-2025-12-12T11:01:53.308Z,Caída Libre (feat. Robe),Leiva,Gigante,211590,35eU9y0JOfSEt0i4jx9Bhd
-2025-12-12T11:04:50.778Z,Interludio Para Mi Julita,Rupatrupa,Interludio Para Mi Julita,97965,0T00OXrDpCIyZK5rJ0j0Ep
-2025-12-12T11:09:23.306Z,Kamikaze del Nido,Ciclonautas,Qué Tal?,263569,6IfabLd46PWN9CeRk1eUv4
-2025-12-12T11:15:22.753Z,Puñales,Lülu,De Aquellos Polvos...,361840,3vDZNg8gaWAAjAdKoAiiol
-2025-12-12T11:21:22.611Z,Calle Melancolía,Robe,Calle Melancolía,380973,3li6qqddV84LgSw9lgh0sG
-2025-12-12T11:27:55.120Z,Entrando cruzado (feat. Robe),Platero Y Tu,Correos,242266,6y7hti9MInjsnoUElfkP1K
-2025-12-12T11:36:10.427Z,Flores de Trinchera,Rupatrupa,Flores de Trinchera,480750,22XGfjEGJfX5gYNrj0URCZ
-2025-12-12T12:03:15.771Z,Rojitas,Extrechinato y Tu,Poesía Básica,232000,5Srks36XWpQoF47EYF7ExI
-2025-12-12T13:15:17.810Z,Todo Tuyo,Memoria de pez,Tocar Madera,243013,0eXKFyljj488otJ7qKG0om
-2025-12-12T13:20:36.946Z,Julia,Memoria de pez,100 nudos por segundo,303786,2DW12H3zvHP3bunKtaV079
-2025-12-12T13:22:39.106Z,Historias prohibidas (Nos tiramos a joder) - Versión 2004,Extremoduro,Dónde Están Mis Amigos,143386,1UBkTLvDRbdL2UpWDGRuJA
-2025-12-12T14:19:01.741Z,Contra Todos,Robe,Contra Todos,420695,4bdWhNOeW8FULAQ9me9qt5
-2025-12-12T17:39:11.330Z,Una y Otra Vez,Whisky Caravan,Una y Otra Vez,245640,0OMfxOUi6NTYSawehpvgDl
-2025-12-12T18:50:50.818Z,El tren,Extremoduro,Bajo La Corteza (26 Canciones De Leño),269746,4P3yGN8HyimF7hI56x3UBG
-2025-12-12T18:52:57.510Z,Y yo que sé,Platero Y Tu,Mucho Tequila (Un Homenaje A Tequila),122666,6XUneVYwjGVdo7AgsSFFYU
-2025-12-13T10:13:33.277Z,Poema sobrecogido,Extremoduro,Para todos los públicos,344186,4RvwjwK1r4SbErfGGdBAke
-2025-12-13T13:52:51.460Z,Poema sobrecogido,Extremoduro,Para todos los públicos,344186,4RvwjwK1r4SbErfGGdBAke
-2025-12-13T13:53:42.159Z,Manué IV,Extremoduro,Para todos los públicos,30453,6aZMreXqZr1oYwNpP8Fqr5
-2025-12-13T13:59:15.249Z,Mamá,Extremoduro,Para todos los públicos,369906,3O9xOAPwHjKKrRqL6LgTLI
-2025-12-13T14:02:28.371Z,Mi voluntad,Extremoduro,Para todos los públicos,200733,4nF6yP9JkUadBhY50gOYUQ
-2025-12-13T14:06:21.133Z,Hoy te la meto hasta las orejas,Extremoduro,"Yo, Minoría Absoluta",222093,1REM2DvMUO7c4bSSCowXum
-2025-12-13T14:13:03.070Z,Pepe Botika (Dónde están mis amigos) - Versión 2004,Extremoduro,Dónde Están Mis Amigos,237973,6rwo5Arn7VJOq9O6BebEdR
-2025-12-13T14:17:28.557Z,Sol de invierno - Versión 2004,Extremoduro,Deltoya,273333,48kn9z2EYNQ7nrfLYKM9Xz
-2025-12-13T15:20:01.120Z,Quemando tus recuerdo - Versión 2004,Extremoduro,Somos Unos Animales,331320,5FqWmhyv7RmrbuukRQyqi7
-2025-12-13T18:40:02.328Z,Quemando tus recuerdo - Versión 2004,Extremoduro,Somos Unos Animales,331320,5FqWmhyv7RmrbuukRQyqi7
-2025-12-13T18:48:02.168Z,Desarraigo,Extremoduro,Material defectuoso,457920,4p16QRkQMGSuI96QeOyilU
-2025-12-13T18:55:32.304Z,Tercer movimiento: lo de dentro,Extremoduro,La ley innata,456960,5h5aT6bWlqBS6ComDsGZ7y
-2025-12-13T20:20:01.714Z,Otra inútil canción para la paz,Extremoduro,Material defectuoso,371053,0xIKmUQyR5TsNngsRTVQKm
-2025-12-14T11:36:18.658Z,Otra inútil canción para la paz,Extremoduro,Material defectuoso,371053,0xIKmUQyR5TsNngsRTVQKm
-2025-12-14T11:40:01.006Z,Amor castúo - Versión 2004,Extremoduro,Rock Transgresivo,207000,3NaJAm7PSfYAWucmYBTFv2
-2025-12-14T11:43:34.181Z,Estoy muy bien,Extremoduro,Dónde Están Mis Amigos,211160,41MG5Jm4Yxy72auNsZFKbj
-2025-12-14T11:47:48.174Z,La hoguera,Extremoduro,Canciones 1989-2013,236018,3GIk3bgSikulgbE8WzMM8w
-2025-12-14T11:51:20.008Z,Romperás,Extremoduro,Rock Transgresivo,211840,6lkqcxO9nyn2lha104gXLY
-2025-12-14T11:56:48.961Z,A fuego,Extremoduro,"Yo, Minoría Absoluta",323226,3WK3ejrcg2sOILqcxYaykU
-2025-12-14T12:00:20.279Z,Bribriblibli - Versión 2004,Extremoduro,Dónde Están Mis Amigos,199960,68l33GWbkYY2I1ZiPodIyE
-2025-12-14T12:02:49.280Z,Decidí - Versión 2004,Extremoduro,Rock Transgresivo,153066,4rVcBjePUVQqRAlrKuikwJ
-2025-12-14T12:12:57.229Z,Extremaydura,Extremoduro,Rock Transgresivo,197783,4yJd2VKBjeiUzruqiF9cIV
-2025-12-14T12:17:00.412Z,De acero,Extremoduro,Deltoya,223733,3bHBZyPLWwpaWPs0waC7Cb
-2025-12-14T12:23:23.870Z,Puta,Extremoduro,"Yo, Minoría Absoluta",322880,30M1XJhkJdkGrgXZ1TpXSS
-2025-12-14T12:26:27.226Z,Bribriblibli - Versión 2004,Extremoduro,Dónde Están Mis Amigos,199960,68l33GWbkYY2I1ZiPodIyE
-2025-12-14T15:03:55.932Z,Interludio,Robe,Mayéutica,191971,7LmLjQrMxNYoM2Y6TCiuMk
-2025-12-14T18:58:26.249Z,Interludio,Robe,Mayéutica,191971,7LmLjQrMxNYoM2Y6TCiuMk
-2025-12-14T19:05:24.694Z,Guerrero,Robe,Lo Que Aletea en Nuestras Cabezas,379440,2STOG0u2WCpsBvPdXr4NkZ
-2025-12-14T19:14:54.543Z,Un Suspiro Acompasado,Robe,Lo Que Aletea en Nuestras Cabezas,550626,4fE6tTCaea15gCHAHR9eJo
-2025-12-14T19:18:24.606Z,...Y Rozar Contigo,Robe,Lo Que Aletea en Nuestras Cabezas,203440,5JCL5SDmXcn9vA3gr8EqiQ
-2025-12-14T19:24:54.727Z,Nana Cruel,Robe,Lo Que Aletea en Nuestras Cabezas,404066,3D0ofNY5pXh2xxwx4xTALu
-2025-12-14T19:28:54.384Z,De Manera Urgente,Robe,Lo Que Aletea en Nuestras Cabezas,227426,4SFCLTeXsqOqckf0XCNl3i
-2025-12-14T19:38:28.923Z,Por Ser un Pervertido,Robe,Lo Que Aletea en Nuestras Cabezas,343653,363E6CguL6rpCXhd4j4e4J
-2025-12-14T19:39:58.948Z,Ruptura Leve,Robe,Lo Que Aletea en Nuestras Cabezas,91840,4P3Kja8p9P0xDjql7zkBxm
-2025-12-14T19:45:58.499Z,Guerrero,Robe,Lo Que Aletea en Nuestras Cabezas,379440,2STOG0u2WCpsBvPdXr4NkZ
-2025-12-14T19:53:29.022Z,Contra Todos,Robe,Lo Que Aletea en Nuestras Cabezas,427626,4gFDQaSUj0xb1Y4zm5WCUD
-2025-12-14T23:51:36.646Z,El hombre pájaro,Robe,Se nos lleva el aire,381000,1RO9fcejkWoqOFj6W4tFVI
-2025-12-15T10:19:26.224Z,Emparedado,Extremoduro,Rock Transgresivo,254402,5tdcoELn1TD1gpqNnBAXt1
-2025-12-15T10:26:12.854Z,Nada que perder,Robe,Se nos lleva el aire,370000,3M66E9SoBkWFJxcSEv2vuO
-2025-12-15T10:29:26.154Z,Ábreme el pecho y registra,Extremoduro,Agila,210400,25ue5YVxjkihYJKpu1Lebt
-2025-12-15T10:33:56.416Z,Todos me dicen,Extremoduro,Agila,251760,6mrYieEu2glNBDY1DBoSxs
-2025-12-15T10:36:26.287Z,Correcaminos ¡Estate al loro!,Extremoduro,Agila,152973,6f6SOVV9QJjWnwART9RgQJ
-2025-12-15T10:38:26.419Z,La carrera,Extremoduro,Agila,136200,4JQjChfJuCwGPYTpWfIZuw
-2025-12-15T10:40:56.379Z,Me estoy quitando,Extremoduro,Agila,132666,3EJid44JIEbOknxjZPp42x
-2025-12-15T10:44:56.527Z,"Adiós abanico, que llegó el aire",Extremoduro,Rock Transgresivo,217826,5XzSHaKNuyP5vKnIJ4x6E7
-2025-12-15T10:47:57.390Z,Arrebato,Extremoduro,Rock Transgresivo,203573,4Y4KugEpdzwsZ2EXvTkJAN
-2025-12-15T11:35:32.288Z,Jesucristo García,Extremoduro,Rock Transgresivo,290448,6SCGDAO9pBX6dmyeFEe0cm
-2025-12-15T12:12:53.668Z,Crucifixion,Extremoduro,Agradecidos... Rosendo,182200,4rvk17vpsiyVbLOr9Y56XB
-2025-12-15T12:15:34.085Z,Enemigo,Extremoduro,Canciones Prohibidas,158920,1wLl4C056T6oM8Rt8h8mFg
-2025-12-15T12:23:35.926Z,"Villancico del rey de Extremadura - Vaya puta mierda de villancico, colega",Extremoduro,Canciones Prohibidas,183893,5UTsvIUx4iQ8zEtq0bxQdt
-2025-12-15T12:28:53.071Z,Desidia,Extremoduro,Canciones 1989-2013,270893,4oiEOwH9Sxjpym4uFDRwDk
-2025-12-15T12:30:16.076Z,J.D. la central nuclear,Extremoduro,Somos Unos Animales,89515,5rZE6DL4qV71EqoBl9W4dT
-2025-12-15T12:33:44.225Z,V centenario,Extremoduro,Somos Unos Animales,203837,5Z44SX6QP0r9jeyqRlv5Ep
-2025-12-15T12:38:08.073Z,Ni príncipes ni princesas,Extremoduro,Somos Unos Animales,261266,6Akcoj69QxDwMp16Y8SSw9
-2025-12-15T12:41:07.416Z,Perro callejero,Extremoduro,Somos Unos Animales,179219,6Hv6wCRWToiYmeCUi87gWs
-2025-12-15T13:02:46.287Z,Resolución,Extremoduro,Somos Unos Animales,233023,4oUYBQ1ZUk2wfVxCImKyOo
-2025-12-15T13:05:46.104Z,Perro callejero,Extremoduro,Somos Unos Animales,179219,6Hv6wCRWToiYmeCUi87gWs
-2025-12-15T13:08:47.887Z,Destrozares,Robe,"Destrozares, Canciones para el Final de los Tiempos",195000,4FHOqpXOFYSysq7KKMnTJa
-2025-12-15T13:16:01.781Z,Del Tiempo Perdido,Robe,Del Tiempo Perdido,430671,204uPJNzsXUU3kojeYdnp7
-2025-12-15T13:22:15.673Z,Por Encima del Bien y del Mal,Robe,Por Encima del Bien y del Mal,381805,51HGOQlOFVnK5swPEbMJN9
-2025-12-15T19:01:35.681Z,La Canción Más Triste,Robe,La Canción Más Triste,402677,3yGwVOEfttlrsoFl0VyUH9
-2025-12-15T19:18:53.945Z,A la sombra de mi sombra,Extrechinato y Tu,A La Sombra De Mi Sombra,250005,4dA49TwxP2fJ3TgNkBUqov
-2025-12-15T20:04:57.868Z,Rojitas,Extrechinato y Tu,Poesía Básica,232000,5Srks36XWpQoF47EYF7ExI
-2025-12-15T20:15:01.619Z,Entrando cruzado (feat. Robe),Platero Y Tu,Correos,242266,6y7hti9MInjsnoUElfkP1K
-2025-12-15T20:18:39.351Z,Juliette (feat. Robe) - Versión 2005,Platero Y Tu,"Hay mucho Rock and Roll, Vol.2",217279,3w18SAKcJJIlrIYDQ2WdNp
+played_at,track_name,artist,album,duration_ms,track_id,artist_name,artist_id,artist_genres,artist_img,album_name,album_id,album_release_year,album_label,album_img
+2025-11-15T12:20:13.787Z,In the End,Linkin Park,Hybrid Theory (Bonus Edition),216880,60a0Rd6pjrkxjPbaKzXjfq,,,,,,,,,
+2025-11-15T12:24:49.535Z,Dog Days Are Over,Florence + The Machine,Lungs (Deluxe Version),252818,456WNXWhDwYOSf5SpTuqxd,,,,,,,,,
+2025-11-15T12:28:19.156Z,Sing,Travis,The Invisible Band,228800,4yA2SM7XCLkSgkBUSoZb5S,,,,,,,,,
+2025-11-15T15:49:35.322Z,Where Is The Love?,Black Eyed Peas,Elephunk,272533,0xmjwnQ3FNE6HuWCt2nHdZ,,,,,,,,,
+2025-11-15T20:23:34.130Z,Where Is The Love?,Black Eyed Peas,Elephunk,272533,0xmjwnQ3FNE6HuWCt2nHdZ,,,,,,,,,
+2025-11-15T20:27:19.052Z,Bad Day,Daniel Powter,Daniel Powter,233640,0mUyMawtxj1CJ76kn9gIZK,,,,,,,,,
+2025-11-15T20:34:49.109Z,The Real Slim Shady,Eminem,The Marshall Mathers LP,284200,3yfqSUWxFvZELEM4PmlwIR,,,,,,,,,
+2025-11-15T20:40:28.933Z,Beautiful Day,U2,All That You Can't Leave Behind,248400,0gzqZ9d1jIKo9psEIthwXe,,,,,,,,,
+2025-11-15T20:43:08.651Z,Sk8er Boi,Avril Lavigne,Let Go,204000,00Mb3DuaIH1kjrwOku9CGU,,,,,,,,,
+2025-11-15T20:48:24.665Z,This Love,Maroon 5,Songs About Jane: 10th Anniversary Edition,206200,6ECp64rv50XVz93WvxXMGF,,,,,,,,,
+2025-11-15T20:53:22.096Z,Can't Stop,Red Hot Chili Peppers,By the Way (Deluxe Edition),269000,3ZOEytgrvLwQaqXreDs2Jx,,,,,,,,,
+2025-11-15T20:58:49.276Z,Lady - Hear Me Tonight,Modjo,Modjo (Remastered),307153,49X0LAl6faAusYq02PRAY6,,,,,,,,,
+2025-11-15T21:03:51.542Z,The Scientist,Coldplay,A Rush of Blood to the Head,309600,75JFxkI2RXiU7L9VXzMkle,,,,,,,,,
+2025-11-15T21:07:19.763Z,How You Remind Me,Nickelback,Silver Side Up,223840,0gmbgwZ8iqyMPmXefof8Yf,,,,,,,,,
+2025-11-17T18:52:52.132Z,The Scientist,Coldplay,A Rush of Blood to the Head,309600,75JFxkI2RXiU7L9VXzMkle,,,,,,,,,
+2025-11-18T19:07:23.078Z,BAJO ZERO,Natos y Waor,BAJO ZERO,217748,5bkHVqgHtm0QKoN7qdvclK,,,,,,,,,
+2025-11-18T22:12:54.799Z,Delirium,Natos y Waor,Martes 13,226666,4vGEhkjT0MuSgCtfLuf2gi,,,,,,,,,
+2025-11-20T19:51:08.474Z,Abracadabra,Lady Gaga,MAYHEM,223398,2LHNTC9QZxsL3nWpt8iaSR,,,,,,,,,
+2025-11-20T19:54:34.671Z,Until I Found You,Stephen Sanchez,Until I Found You,177720,0T5iIrXA4p5GsubkhuBIKV,,,,,,,,,
+2025-11-20T19:57:38.047Z,Beautiful Things,Benson Boone,Fireworks & Rollerblades,180304,3xkHsmpQCBMytMJNiDf3Ii,,,,,,,,,
+2025-11-21T21:26:16.987Z,Tempestades de Sal,SES,Admirando a Condición,234000,5uNMPGKow60Fc2j0WCOwQY,,,,,,,,,
+2025-11-22T10:52:38.652Z,"Night Fever - From ""Saturday Night Fever"" Soundtrack",Bee Gees,Saturday Night Fever (The Original Movie Soundtrack),211640,33ALuUDfftTs2NEszyvJRm,,,,,,,,,
+2025-11-22T10:58:07.048Z,Hot Stuff,Donna Summer,Bad Girls,314760,2zMJN9JvDlvGP4jB03l1Bz,,,,,,,,,
+2025-11-22T11:01:06.885Z,Heart of Gold - 2009 Remaster,Neil Young,Harvest (2009 Remaster),187013,1Q1b8eVkUPGlpSArl8JAVw,,,,,,,,,
+2025-11-22T11:07:07.191Z,Piano Man,Billy Joel,Piano Man (Legacy Edition),339000,70C4NyhjD5OZUMzvWZ3njJ,,,,,,,,,
+2025-11-22T11:11:37.375Z,Don't Go Breaking My Heart,Elton John,Rock Of The Westies,275440,7HW5WIw7ZgZORCzUxv5gW5,,,,,,,,,
+2025-11-22T11:15:37.397Z,Black Betty,Ram Jam,Ram Jam,240335,6kooDsorCpWVMGc994XjWN,,,,,,,,,
+2025-11-22T11:34:43.634Z,Hooked On A Feeling,Blue Swede,Hooked On A Feeling,172866,6Ac4NVYYl2U73QiTt11ZKd,,,,,,,,,
+2025-11-22T13:44:03.539Z,Because the Night,Patti Smith,Easter,204800,0lIoY4ZQsdn5QzhraM9o9u,,,,,,,,,
+2025-11-22T13:48:08.023Z,Hold the Line,TOTO,The Essential Toto,236106,17arUdDWEinOOVrrVUkEM7,,,,,,,,,
+2025-11-22T13:51:34.386Z,It's a Heartache,Bonnie Tyler,Natural Force (Expanded Edition),215160,1Y7VG310Lf5IYP7sVOob4X,,,,,,,,,
+2025-11-22T13:57:12.680Z,Smoke On The Water - Remastered 2012,Deep Purple,Machine Head (Remastered),340742,5MMnwYs0hIxkENRsbkWJ2G,,,,,,,,,
+2025-11-22T17:57:00.734Z,Sultans Of Swing,Dire Straits,Dire Straits,348400,37Tmv4NnfQeb0ZgUC4fOJj,,,,,,,,,
+2025-11-22T18:02:21.041Z,Miss You - Remastered,The Rolling Stones,Some Girls,288666,3hJLKtTpgct9Y9wKww0BiR,,,,,,,,,
+2025-11-22T18:06:21.025Z,A Horse with No Name,America,America,252239,54eZmuggBFJbV7k248bTTt,,,,,,,,,
+2025-11-22T18:09:20.825Z,Burning Love,Elvis Presley,Elvis (Fool),171533,7zMUCLm1TN9o9JlLISztxO,,,,,,,,,
+2025-11-22T18:14:51.400Z,Carry on Wayward Son,Kansas,The Essential Kansas,322093,2SUpC3UgKwLVOS2FtZif9N,,,,,,,,,
+2025-11-22T18:21:50.882Z,Riders on the Storm,The Doors,L.A. Woman,434720,14XWXWv5FoCbFzLksawpEe,,,,,,,,,
+2025-11-22T18:28:51.668Z,September,"Earth, Wind & Fire","The Essential Earth, Wind & Fire",215080,3wpLkju0bJy89kjgdRys0j,,,,,,,,,
+2025-11-22T19:46:37.767Z,Born to Be Alive - The Original,Patrick Hernandez,Born to Be Alive (The Original),188133,3XIEWK1V9n25PS9Vb6axj5,,,,,,,,,
+2025-11-24T09:08:00.799Z,24K Magic,Bruno Mars,24K Magic,225983,6b8Be6ljOzmkOmFslEb23P,,,,,,,,,
+2025-11-24T12:03:20.134Z,24K Magic,Bruno Mars,24K Magic,225983,6b8Be6ljOzmkOmFslEb23P,,,,,,,,,
+2025-11-25T10:39:46.723Z,Born to Be Alive - The Original,Patrick Hernandez,Born to Be Alive (The Original),188133,3XIEWK1V9n25PS9Vb6axj5,,,,,,,,,
+2025-11-25T10:43:46.810Z,Dust in the Wind,Kansas,Point Of Know Return (Expanded Edition),206266,6zeE5tKyr8Nu882DQhhSQI,,,,,,,,,
+2025-11-25T10:46:47.143Z,You're The One That I Want - From “Grease”,John Travolta,Grease (The Original Motion Picture Soundtrack),169840,0B9x2BRHqj3Qer7biM3pU3,,,,,,,,,
+2025-11-25T10:50:25.633Z,Grease - From “Grease”,Frankie Valli,Grease (The Original Motion Picture Soundtrack),205733,6X1D6qbVmK48uoOD9nIvVV,,,,,,,,,
+2025-11-25T10:53:26.850Z,London Calling - Remastered,The Clash,London Calling (Remastered),199703,5jzma6gCzYtKB1DbEwFZKH,,,,,,,,,
+2025-11-25T10:58:24.581Z,YMCA - Original Version 1978,Village People,YMCA,286800,54OR1VDpfkBuOY5zZjhZAY,,,,,,,,,
+2025-11-25T11:02:46.926Z,I Was Made For Lovin' You,KISS,Dynasty,271240,07q0QVgO56EorrSGHC48y3,,,,,,,,,
+2025-11-25T11:06:16.683Z,In the Summertime,Mungo Jerry,Electronically Tested,215800,36xVTZU8HMpcgEdlJ4I3Kv,,,,,,,,,
+2025-11-25T18:16:32.175Z,Baba O'Riley,The Who,Who's Next (Deluxe Edition),300400,3qiyyUfYe7CRYLucrPmulD,,,,,,,,,
+2025-11-25T18:59:57.085Z,Versace on the Floor,Bruno Mars,24K Magic,261240,0kN8xEmgMW9mh7UmDYHlJP,,,,,,,,,
+2025-11-25T19:03:04.595Z,Chunky,Bruno Mars,24K Magic,186973,0mBKv9DkYfQHjdMcw2jdyI,,,,,,,,,
+2025-11-25T19:06:23.482Z,Straight up & Down,Bruno Mars,24K Magic,198186,2mrZYZGmPFV3QOyYPZ1zsn,,,,,,,,,
+2025-11-25T19:09:50.847Z,That's What I Like,Bruno Mars,24K Magic,206693,0KKkJNfGyhkQ5aFogxQAPU,,,,,,,,,
+2025-11-25T19:14:33.541Z,Too Good to Say Goodbye,Bruno Mars,24K Magic,281826,0B0tYbVp7pDQAqKDhgMeaL,,,,,,,,,
+2025-11-25T19:18:44.026Z,Calling All My Lovelies,Bruno Mars,24K Magic,250080,6ObpR8ek44tvWefQRcSo8K,,,,,,,,,
+2025-11-25T19:21:55.562Z,Finesse,Bruno Mars,24K Magic,191000,5XMkENs3GfeRza8MfVAhjK,,,,,,,,,
+2025-11-25T19:25:25.719Z,Perm,Bruno Mars,24K Magic,210053,1I6pKIyaBp4OebTGLJpCCC,,,,,,,,,
+2025-11-25T19:29:15.860Z,Moonshine,Bruno Mars,Unorthodox Jukebox,228573,30raivfq7rSt5nKltiHfzG,,,,,,,,,
+2025-11-25T19:32:46.285Z,BLOW (with Chris Stapleton & Bruno Mars),Ed Sheeran,No.6 Collaborations Project,209120,7hvO2qCwJVZxiyoA7c9i5d,,,,,,,,,
+2025-11-25T19:36:23.761Z,New Light,John Mayer,Sob Rock,217426,4T6FWA703h6H7zk1FoSARw,,,,,,,,,
+2025-11-25T19:40:47.840Z,Love The Way You Lie,Eminem,Recovery,263373,15JINEqzVMv3SvJTAXAKED,,,,,,,,,
+2025-11-25T19:45:12.186Z,Adventure of a Lifetime,Coldplay,A Head Full of Dreams,263786,69uxyAqqPIsUyTO8txoP2M,,,,,,,,,
+2025-11-25T19:49:14.364Z,The Man Who Can't Be Moved,The Script,The Script,241373,3nqqDo8CcCLke3ZoTgiOKf,,,,,,,,,
+2025-11-25T20:15:38.038Z,"Signed, Sealed, Delivered I'm Yours",Blue,"Signed, Sealed, Delivered I'm Yours",215223,0Ofr6gEshedQxJuVAzoyud,,,,,,,,,
+2025-11-26T00:26:21.028Z,El Roce De Tu Piel,Revolver,Pop Español De Los 90,314520,5JOAsrcpjA8lojuSoh8yax,,,,,,,,,
+2025-11-26T16:14:52.668Z,Hey Brother,Avicii,True,255093,4lhqb6JvbHId48OUJGwymk,,,,,,,,,
+2025-11-26T16:20:01.823Z,I Will Wait,Mumford & Sons,Babel,276720,1PuLHwFZoh5qYK89I5YBdZ,,,,,,,,,
+2025-11-26T16:24:24.521Z,Do I Wanna Know?,Arctic Monkeys,AM,272394,5FVd6KXrgO9B3JPmC8OPst,,,,,,,,,
+2025-11-26T16:27:37.440Z,Can't Feel My Face,The Weeknd,Beauty Behind The Madness,213520,22VdIZQfgXJea34mQxlt81,,,,,,,,,
+2025-11-26T16:31:37.728Z,Just Give Me a Reason (feat. Nate Ruess),P!nk,The Truth About Love,242721,1mKXFLRA179hdOWQBwUk9e,,,,,,,,,
+2025-11-26T16:35:37.409Z,Sail,AWOLNATION,Megalithic Symphony,259093,7ueP5u2qkdZbIPN2YA6LR0,,,,,,,,,
+2025-11-26T16:53:59.085Z,Party Rock Anthem,LMFAO,Sorry For Party Rocking,262146,7mitXLIMCflkhZiD34uEQI,,,,,,,,,
+2025-11-26T17:49:33.025Z,Safe and Sound,Capital Cities,In A Tidal Wave of Mystery,192789,5JVbvCHX10U2pLa5DEqGav,,,,,,,,,
+2025-11-27T10:28:24.212Z,Safe and Sound,Capital Cities,In A Tidal Wave of Mystery,192789,5JVbvCHX10U2pLa5DEqGav,,,,,,,,,
+2025-11-27T10:30:45.108Z,Demons,Imagine Dragons,Night Visions,177506,5qaEfEh1AtSdrdrByCP7qR,,,,,,,,,
+2025-11-27T11:01:10.646Z,Levels - Radio Edit,Avicii,Levels,199906,5UqCQaDshqbIk3pkhy4Pjg,,,,,,,,,
+2025-11-27T12:08:38.168Z,Levels - Radio Edit,Avicii,Levels,199906,5UqCQaDshqbIk3pkhy4Pjg,,,,,,,,,
+2025-11-27T12:12:55.422Z,Sugar (feat. Francesco Yates),Robin Schulz,Sugar,219043,5tf1VVWniHgryyumXyJM7w,,,,,,,,,
+2025-11-27T12:16:17.793Z,Price Tag,Jessie J,Who You Are (Platinum Edition),223053,2fTsFCKRFQ5M0igJgabnLA,,,,,,,,,
+2025-11-27T12:21:45.540Z,Give Me Everything (feat. Nayer),Pitbull,Planet Pit (Deluxe Version),252306,4QNpBfC0zvjKqPJcyqBy9W,,,,,,,,,
+2025-11-27T12:27:41.496Z,Unstoppable,Sia,This Is Acting,217746,059ACLUOyEcdruA2m9f2jd,,,,,,,,,
+2025-11-27T13:13:40.173Z,Electric Love,BØRNS,Dopamine,218106,2GiJYvgVaD2HtM8GqD9EgQ,,,,,,,,,
+2025-11-27T13:17:10.747Z,Electric Love,BØRNS,Dopamine,218106,2GiJYvgVaD2HtM8GqD9EgQ,,,,,,,,,
+2025-11-27T13:19:40.040Z,Feel It Still,Portugal. The Man,Woodstock,163253,6QgjcU0zLnzq5OrUoSZ3OK,,,,,,,,,
+2025-11-27T13:23:25.211Z,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Maroon 5,Hands All Over (Revised International Standard version),201493,7pYfyrMNPn3wtoCyqcTVoI,,,,,,,,,
+2025-11-27T13:26:39.821Z,Always Remember Us This Way,Lady Gaga,A Star Is Born Soundtrack,210200,74iZuPGwyL33VlTr6jTnab,,,,,,,,,
+2025-11-27T13:38:08.964Z,Uptown Funk (feat. Bruno Mars),Mark Ronson,Uptown Special,269658,32OlwWuMpZ6b0aN2RZOeMS,,,,,,,,,
+2025-11-27T13:42:47.452Z,We Are Young (feat. Janelle Monáe),fun.,Some Nights,250626,5rgy6ghBq1eRApCkeUdJXf,,,,,,,,,
+2025-11-27T17:06:05.349Z,Renegades,X Ambassadors,VHS,195200,0fYVliAYKHuPmECRs1pbRf,,,,,,,,,
+2025-11-27T17:07:24.588Z,Renegades,X Ambassadors,VHS,195200,0fYVliAYKHuPmECRs1pbRf,,,,,,,,,
+2025-11-27T17:10:55.180Z,Dark Horse,Katy Perry,PRISM,215672,4jbmgIyjGoXjY01XxatOx6,,,,,,,,,
+2025-11-27T17:14:24.678Z,Circles,Post Malone,Hollywood's Bleeding,215280,21jGcNKet2qwijlDFuPiPb,,,,,,,,,
+2025-11-27T17:18:54.756Z,Elastic Heart,Sia,1000 Forms Of Fear,257200,6kwAbEjseqBob48jCus7Sz,,,,,,,,,
+2025-11-27T17:25:54.815Z,The Monster,Eminem,The Marshall Mathers LP2,250188,48RrDBpOSSl1aLVCalGl5C,,,,,,,,,
+2025-11-27T17:30:24.548Z,A Sky Full of Stars,Coldplay,Ghost Stories,267866,0FDzzruyVECATHXKHFs9eJ,,,,,,,,,
+2025-11-27T17:34:02.152Z,Habits (Stay High),Tove Lo,Queen Of The Clouds,209160,18AJRdgUoO9EYn11N7xzaT,,,,,,,,,
+2025-11-27T17:37:25.211Z,Last Friday Night (T.G.I.F.),Katy Perry,Teenage Dream: The Complete Confection,230746,455AfCsOhhLPRc68sE01D8,,,,,,,,,
+2025-11-27T17:41:00.834Z,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,The Papercut Chronicles II,210960,0qOnSQQF0yzuPWsXrQ9paz,,,,,,,,,
+2025-11-27T18:26:10.237Z,Someone Like You,Adele,21,285240,3bNv3VuUOKgrf5hu3YcuRo,,,,,,,,,
+2025-11-28T11:06:25.623Z,Blinding Lights,The Weeknd,After Hours,200040,0VjIjW4GlUZAMYd2vXMi3b,,,,,,,,,
+2025-11-28T11:08:55.230Z,Mystical Magical,Benson Boone,Mystical Magical,165746,221eHga9f9Ne4f8D7WVgPT,,,,,,,,,
+2025-11-28T11:12:25.104Z,Bam Bam (feat. Ed Sheeran),Camila Cabello,Bam Bam (feat. Ed Sheeran),205604,0QBzMgT7NIeoCYy3sJCof1,,,,,,,,,
+2025-11-28T11:15:54.804Z,Golden,HUNTR/X,KPop Demon Hunters (Soundtrack from the Netflix Film),194607,1CPZ5BxNNd0n0nF4Orb9JS,,,,,,,,,
+2025-11-28T11:18:55.492Z,I WANNA BE YOUR SLAVE,Måneskin,Teatro d'ira - Vol. I,173346,4pt5fDVTg5GhEvEtlz9dKk,,,,,,,,,
+2025-11-28T11:22:54.994Z,Fortnight (feat. Post Malone),Taylor Swift,THE TORTURED POETS DEPARTMENT,228965,2OzhQlSqBEmt7hmkYxfT6m,,,,,,,,,
+2025-11-28T11:27:24.976Z,Pepas,Farruko,Pepas,287120,5fwSHlTEWpluwOM0Sxnh5k,,,,,,,,,
+2025-11-28T11:30:25.162Z,From The Start,Laufey,Bewitched,169573,43iIQbw5hx986dUEZbr3eN,,,,,,,,,
+2025-11-28T11:34:25.296Z,Something in the Orange,Zach Bryan,Something in the Orange,228013,3WMj8moIAXJhHsyLaqIIHI,,,,,,,,,
+2025-11-28T11:37:25.219Z,Strangers,Kenya Grace,Strangers,172964,5mjYQaktjmjcMKcUIcqz4s,,,,,,,,,
+2025-11-28T11:40:25.550Z,Dance The Night - From Barbie The Album,Dua Lipa,Dance The Night (From Barbie The Album),176579,1vYXt7VSjH9JIM5oRRo7vA,,,,,,,,,
+2025-11-28T11:43:55.302Z,Shivers,Ed Sheeran,=,207853,50nfwKoDiSYg8zOCREWAm5,,,,,,,,,
+2025-11-28T12:30:54.428Z,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),171291,2FQrifJ1N335Ljm3TjTVVf,,,,,,,,,
+2025-11-28T13:55:29.818Z,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),171291,2FQrifJ1N335Ljm3TjTVVf,,,,,,,,,
+2025-11-28T13:58:29.821Z,End of Beginning,Djo,DECIDE,159245,3qhlB30KknSejmIvZZLjOD,,,,,,,,,
+2025-11-28T14:00:59.896Z,Goosebumps - Remix,Travis Scott,Goosebumps (Remix),162802,5uEYRdEIh9Bo4fpjDd4Na9,,,,,,,,,
+2025-11-28T14:04:05.941Z,Heaven,Niall Horan,The Show,186043,5FQ77Cl1ndljtwwImdtjMy,,,,,,,,,
+2025-11-28T14:08:48.399Z,Not Like Us,Kendrick Lamar,Not Like Us,274192,6AI3ezQ4o3HUoP6Dhudph3,,,,,,,,,
+2025-11-28T14:11:11.348Z,love nwantiti (ah ah ah),CKay,CKay The First,145800,2Xr1dTzJee307rmrkt8c0g,,,,,,,,,
+2025-11-28T14:14:44.694Z,DÁKITI,Bad Bunny,DÁKITI,205090,47EiUVwUp4C9fGccaPuUCS,,,,,,,,,
+2025-11-28T18:56:17.244Z,Anti-Hero,Taylor Swift,Midnights,200690,0V3wPSX9ygBnCm8psDIegu,,,,,,,,,
+2025-11-29T22:58:09.685Z,Anti-Hero,Taylor Swift,Midnights,200690,0V3wPSX9ygBnCm8psDIegu,,,,,,,,,
+2025-11-29T23:01:38.154Z,The Box,Roddy Ricch,Please Excuse Me for Being Antisocial,196652,0nbXyq5TXYPCO7pr3N8S4I,,,,,,,,,
+2025-11-29T23:04:08.957Z,Kings & Queens,Ava Max,Heaven & Hell,162398,7a53HqqArd4b9NF4XAmlbI,,,,,,,,,
+2025-11-29T23:07:38.015Z,vampire,Olivia Rodrigo,GUTS,219724,1kuGVB7EU95pJObxwvfwKS,,,,,,,,,
+2025-11-29T23:11:38.005Z,Little Bit of Love,Tom Grennan,Little Bit of Love,226268,2sX7lJXsOYGP1Us6CqM9t1,,,,,,,,,
+2025-11-29T23:15:38.275Z,Tití Me Preguntó,Bad Bunny,Un Verano Sin Ti,243716,1IHWl5LamUGEuP4ozKQSXZ,,,,,,,,,
+2025-11-29T23:19:38.072Z,Austin (Boots Stop Workin'),Dasha,What Happens Now?,171782,2uqYupMHANxnwgeiXTZXzd,,,,,,,,,
+2025-11-29T23:22:38.498Z,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,Save Your Tears (Remix),191013,37BZB0z9T8Xu7U3e65qxFy,,,,,,,,,
+2025-11-29T23:25:07.951Z,My Love Mine All Mine,Mitski,The Land Is Inhospitable and So Are We,137773,3vkCueOmm7xQDoJ17W1Pm3,,,,,,,,,
+2025-11-29T23:27:08.175Z,Romantic Homicide,d4vd,Romantic Homicide,132630,1xK59OXxi2TAAAbmZK0kBL,,,,,,,,,
+2025-11-29T23:30:37.986Z,Stick Season,Noah Kahan,Stick Season,182346,0mflMxspEfB0VbI1kyLiAv,,,,,,,,,
+2025-11-29T23:33:38.313Z,Until I Found You,Stephen Sanchez,Until I Found You,177720,0T5iIrXA4p5GsubkhuBIKV,,,,,,,,,
+2025-11-29T23:36:08.234Z,Boyfriend,Dove Cameron,Boyfriend,153000,59CfNbkERJ3NoTXDvoURjj,,,,,,,,,
+2025-11-29T23:39:38.201Z,Love Me Not,Ravyn Lenae,Bird's Eye,213466,4WFgvKVfEhb3IUAFGrutTR,,,,,,,,,
+2025-11-29T23:43:08.404Z,luther (with sza),Kendrick Lamar,GNX,177598,2CGNAOSuO1MEFCbBRgUzjd,,,,,,,,,
+2025-11-29T23:47:08.595Z,Easy On Me,Adele,30,224694,46IZ0fSY2mpAiktS3KOqds,,,,,,,,,
+2025-11-29T23:49:38.533Z,Mood (feat. iann dior),24kGoldn,El Dorado,140525,4jPy3l0RUwlUI9T5XHBW2m,,,,,,,,,
+2025-11-30T08:59:38.977Z,Die With A Smile,Lady Gaga,Die With A Smile,251667,2plbrEY59IikOBgBGLjaoe,,,,,,,,,
+2025-11-30T09:00:18.434Z,Die With A Smile,Lady Gaga,Die With A Smile,251667,2plbrEY59IikOBgBGLjaoe,,,,,,,,,
+2025-11-30T09:02:49.934Z,Unholy (feat. Kim Petras),Sam Smith,Unholy (feat. Kim Petras),156943,3nqQXoyQOWXiESFLlDF1hG,,,,,,,,,
+2025-11-30T09:05:50.677Z,Woman,Doja Cat,Planet Her,172626,6Uj1ctrBOjOas8xZXGqKk4,,,,,,,,,
+2025-11-30T09:09:19.747Z,Ferrari,James Hype,Ferrari,186661,4zN21mbAuaD0WqtmaTZZeP,,,,,,,,,
+2025-11-30T09:12:52.007Z,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,MONTERO,212352,5Z9KJZvQzH6PFmb8SNkxuk,,,,,,,,,
+2025-11-30T09:15:49.026Z,SNAP,Rosa Linn,SNAP,179551,5hx7w26Zi3zafMgvMTUqF6,,,,,,,,,
+2025-11-30T09:19:18.757Z,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,228639,51ZQ1vr10ffzbwIjDCwqm4,,,,,,,,,
+2025-11-30T09:23:20.190Z,Ghost,Justin Bieber,Justice,153190,6I3mqTwhRpn34SLVafSH7G,,,,,,,,,
+2025-11-30T09:30:20.549Z,Water,Tyla,Water,200255,5aIVCx5tnk0ntmdiinnYvw,,,,,,,,,
+2025-11-30T09:40:49.157Z,Templars,Sabaton,Legends,294000,0MxqiUhIbMwIEOYTgdNbxb,,,,,,,,,
+2025-11-30T09:45:20.341Z,"I, Emperor",Sabaton,Legends,255973,3CZDkpmq245kzvCe44P2hM,,,,,,,,,
+2025-11-30T09:49:18.623Z,Amaranth,Nightwish,Dark Passion Play,231444,0RsOUnm1wNpbXxZ8a4abOP,,,,,,,,,
+2025-11-30T09:52:49.537Z,Live or Die (feat. Joakim Brodén),Apocalyptica,Live Or Die (feat. Joakim Brodén),224164,2tSyGmqhFvYongMdFaQNe3,,,,,,,,,
+2025-11-30T09:55:50.475Z,Skal,Miracle Of Sound,Level 12,168948,6ybRWbM4jdku0Pk8SzjORB,,,,,,,,,
+2025-11-30T12:17:37.328Z,Faster,Within Temptation,The Unforgiving,263973,4XBtYPGMAYJkuJu2w4pmYl,,,,,,,,,
+2025-11-30T19:06:43.760Z,Faster,Within Temptation,The Unforgiving,263973,4XBtYPGMAYJkuJu2w4pmYl,,,,,,,,,
+2025-11-30T19:10:13.845Z,Soldier of Heaven,Sabaton,The War to End All Wars,218000,2c03eSv5IkwbDty49pKg1L,,,,,,,,,
+2025-11-30T19:13:44.863Z,The Wheel,Imperial Age,New World,220252,5KDF1z9oQjW2RuJfdqkqH2,,,,,,,,,
+2025-11-30T19:18:44.824Z,Élan,Nightwish,Endless Forms Most Beautiful (Deluxe Version),287000,5oAvb7LpUBwQfBtQ6hmS4Q,,,,,,,,,
+2025-11-30T19:22:45.036Z,The Call of the Mountains,Eluveitie,Origins,253896,0vTEksNDRuJxDMLOOgn0fA,,,,,,,,,
+2025-11-30T19:26:59.263Z,Valhalla Calling - Metal Version,Miracle Of Sound,Valhalla Calling (Metal Version),226339,5no8377qvCNtxsaTKR6WUt,,,,,,,,,
+2025-11-30T19:30:15.333Z,To Hell and Back,Sabaton,Heroes,206546,1BrgjqSg9du0lj3TUMLluL,,,,,,,,,
+2025-12-01T10:13:37.244Z,The Ketchup Song (Aserejé) - Spanish Version,Las Ketchup,Aserejé (The Ketchup Song),213000,6NG2IIXZfC5Notpz0GIODU,,,,,,,,,
+2025-12-01T15:03:27.922Z,Run Away With Me,Carly Rae Jepsen,Emotion (Deluxe),251320,1VKTdQTrcP0cMdySaCEj7F,,,,,,,,,
+2025-12-01T18:38:32.604Z,Run Away With Me,Carly Rae Jepsen,Emotion (Deluxe),251320,1VKTdQTrcP0cMdySaCEj7F,,,,,,,,,
+2025-12-01T18:42:05.109Z,Don't You Worry Child - Radio Edit,Swedish House Mafia,Don't You Worry Child,212862,2V65y3PX4DkRhy1djlxd9p,,,,,,,,,
+2025-12-01T18:46:03.108Z,Rather Be (feat. Jess Glynne),Clean Bandit,Rather Be (feat. Jess Glynne),227833,3s4U7OHV7gnj42VV72eSZ6,,,,,,,,,
+2025-12-01T18:50:32.347Z,Some Nights,fun.,Some Nights,277040,67WTwafOMgegV6ABnBQxcE,,,,,,,,,
+2025-12-01T18:54:32.157Z,We Found Love,Rihanna,Talk That Talk,215226,0U10zFw4GlBacOy9VDGfGL,,,,,,,,,
+2025-12-01T18:58:32.465Z,Blurred Lines,Robin Thicke,Blurred Lines (Deluxe),263826,0n4bITAu0Y0nigrz3MFJMb,,,,,,,,,
+2025-12-01T19:02:32.361Z,Grenade,Bruno Mars,Doo-Wops & Hooligans,222091,4lLtanYk6tkMvooU0tWzG8,,,,,,,,,
+2025-12-01T19:06:02.405Z,ocean eyes,Billie Eilish,dont smile at me,200379,7hDVYcQq6MxkdJGweuCtl9,,,,,,,,,
+2025-12-01T19:10:02.620Z,I'm Not The Only One,Sam Smith,In The Lonely Hour,239316,7795WJLVKJoAyVoOtCWqXN,,,,,,,,,
+2025-12-02T20:15:37.579Z,"Yes Sir, I Can Boogie",Baccara,The Collection & Tracklisting,273866,2LScqpywMqGcnum6nNaxXX,,,,,,,,,
+2025-12-04T10:21:17.822Z,Liquor Store Blues (feat. Damian Marley),Bruno Mars,Doo-Wops & Hooligans,229383,1ewMCmw7qCb5a9ttqiyemu,,,,,,,,,
+2025-12-04T10:28:00.519Z,Animales hambrientos,Desakato,La Teoría del Fuego,201649,3C4PLynbAIM9y2JTykZxYV,,,,,,,,,
+2025-12-04T10:32:18.949Z,Lo Mismo,Free City,Lo Mismo,256834,1WFiOnPtvpFLeVqKwHYmoU,,,,,,,,,
+2025-12-04T10:36:21.968Z,Muérdeles,La Raíz,Entre poetas y presos,242602,0LL7SugpvjCJLezhshIDae,,,,,,,,,
+2025-12-04T11:14:58.347Z,Coconut Skins,Damien Rice,9,225373,29ZwHWh3lI43nAFnVBOagN,,,,,,,,,
+2025-12-04T11:20:42.695Z,The Professor & La Fille Danse - Live,Damien Rice,B-Sides,308133,0EcVXmoXnOrqSlfog2Fay3,,,,,,,,,
+2025-12-04T11:42:17.063Z,The Blower's Daughter,Damien Rice,O,286653,5yyRH93h4Pm6tXXYTxt7ea,,,,,,,,,
+2025-12-04T11:45:50.886Z,Zeinen Ederra Izango Den,ZETAK,Zeinen Ederra Izango Den,185714,0yS9XxRk7iiIiqDfifMCVg,,,,,,,,,
+2025-12-04T11:49:35.165Z,Pater Noster,ZETAK,Pater Noster,217859,6unGvxYQbOcJoe67SkcbKt,,,,,,,,,
+2025-12-04T11:50:22.618Z,Guui Herriyen,ZETAK,Zeinen Ederra Izango Den,53434,2WyUZEPeigfN2VMK7kDAyv,,,,,,,,,
+2025-12-04T11:53:49.936Z,ZU,ZETAK,AAZTIYEN,187732,7og13nwwpYm8EBqXKDjeUs,,,,,,,,,
+2025-12-04T11:57:02.834Z,Errepidean,ZETAK,Errepidean,206706,3MFE8qfmG45TIiK07E5qTA,,,,,,,,,
+2025-12-04T12:00:39.715Z,Hileta Kantu Nafarra,ZETAK,Hileta Kantu Nafarra,228285,2zCDgzarWnLB2ikcXb5S1O,,,,,,,,,
+2025-12-04T18:44:52.804Z,Hegan,ZETAK,Zeinen Ederra Izango Den,212365,6ns0yMrMWzI6XrUuzwFSn7,,,,,,,,,
+2025-12-04T18:54:22.766Z,Pa amb Oli I Sal,ZETAK,Pa amb Oli I Sal,198505,6wrdLhlCg17eTHblOb4ENW,,,,,,,,,
+2025-12-04T18:57:59.138Z,NON SARTU ZARA,ZETAK,AAZTIYEN,216043,64tBeGNqEKdJlBiPJoC4O2,,,,,,,,,
+2025-12-04T19:01:04.188Z,Suziri Bi,ZETAK,Suziri Bi,184720,1Xi4RN562sU7358QZN9Gs2,,,,,,,,,
+2025-12-04T19:04:13.605Z,ZU,ZETAK,ZU,188538,0l2j66xknZyOqVbwcCh4iF,,,,,,,,,
+2025-12-04T19:05:29.985Z,AAZTIYEN,ZETAK,AAZTIYEN,74952,0cbNDhHWFpIysJEajWfkOQ,,,,,,,,,
+2025-12-04T19:10:30.937Z,Hitzeman,ZETAK,Zeinen Ederra Izango Den,191005,5AM7VpEcyrjpKVAh7ZZNxx,,,,,,,,,
+2025-12-04T19:14:08.716Z,In the End,Linkin Park,Hybrid Theory (Bonus Edition),216880,60a0Rd6pjrkxjPbaKzXjfq,,,,,,,,,
+2025-12-04T19:18:03.045Z,Kryptonite,3 Doors Down,The Better Life,233933,6ZOBP3NvffbU4SZcrnt1k6,,,,,,,,,
+2025-12-04T19:21:11.380Z,Numb,Linkin Park,Meteora,187520,2nLtzopw4rPReszdYBJU6h,,,,,,,,,
+2025-12-04T19:25:40.643Z,Can't Stop,Red Hot Chili Peppers,By the Way (Deluxe Edition),269000,3ZOEytgrvLwQaqXreDs2Jx,,,,,,,,,
+2025-12-04T19:28:23.580Z,Faint,Linkin Park,Meteora,162106,4Yf5bqU3NK4kNOypcrLYwU,,,,,,,,,
+2025-12-04T19:33:46.013Z,21 Guns,Green Day,21st Century Breakdown,322040,3IHHqmfKJHyI0obINUdg1W,,,,,,,,,
+2025-12-04T19:37:20.452Z,Somewhere I Belong,Linkin Park,Meteora (Bonus Edition),213933,3fjmSxt0PskST13CSdBUFx,,,,,,,,,
+2025-12-04T19:41:05.093Z,How You Remind Me,Nickelback,Silver Side Up,223840,0gmbgwZ8iqyMPmXefof8Yf,,,,,,,,,
+2025-12-04T19:44:30.845Z,What I've Done,Linkin Park,Minutes to Midnight,205226,18lR4BzEs7e3qzc0KVkTpU,,,,,,,,,
+2025-12-04T19:50:05.671Z,Snow (Hey Oh),Red Hot Chili Peppers,Stadium Arcadium,334666,2aibwv5hGXSgw7Yru8IYTO,,,,,,,,,
+2025-12-04T19:53:46.176Z,The Emptiness Machine,Linkin Park,From Zero,190427,1EDPVGbyPKJPeGqATwXZvN,,,,,,,,,
+2025-12-05T09:47:55.998Z,Tiempo de cobardes,Desakato,La Teoría del Fuego,128983,0A8NdVaoq6XchYXbRX33Y1,,,,,,,,,
+2025-12-05T09:51:26.122Z,La hoguera,Desakato,La Teoría del Fuego,202069,56LGeNOkt5D5GykVJmiPAb,,,,,,,,,
+2025-12-05T09:55:26.111Z,Sonrisa certera,Desakato,Inercia,225720,3rvtqJnthCcDIFRDSuiD8q,,,,,,,,,
+2025-12-05T09:57:56.035Z,Héroes,Desakato,Buen Viaje,158498,61i6mK8O4fxmrDkpy2PIyV,,,,,,,,,
+2025-12-05T10:02:26.242Z,Tu avalancha,Desakato,La Teoría del Fuego,269376,3eSzA7v3zMuwAlG2l7etxQ,,,,,,,,,
+2025-12-05T10:05:26.246Z,El último hombre,Desakato,Inercia,185040,3YvIQBFDpMqaK1jCWsa5P7,,,,,,,,,
+2025-12-05T10:08:56.213Z,El mio camín,Desakato,Miseria sangre y plomo,193826,3juTIU1kKeQ1TjQfsq46VI,,,,,,,,,
+2025-12-05T10:12:26.149Z,Estigma,Desakato,La Teoría del Fuego,210194,7pSpn3a0UgEnJA3zMCCSGk,,,,,,,,,
+2025-12-06T21:21:48.082Z,L'Estrueldu,Desakato,La Miel de Las Flores Muertas,256048,0HAsMcJLccUxEvWYe7KtY1,,,,,,,,,
+2025-12-08T12:56:01.798Z,Little L,Jamiroquai,A Funk Odyssey,295400,7hhclvecTpNxNNRCk7NUoc,,,,,,,,,
+2025-12-08T12:58:37.026Z,Virtual Insanity - Remastered 2006,Jamiroquai,Driving Songs,229360,4UQDZlZhGUDoYMohwrY28v,,,,,,,,,
+2025-12-08T13:06:55.256Z,Templars,Sabaton,Legends,294000,0MxqiUhIbMwIEOYTgdNbxb,,,,,,,,,
+2025-12-08T13:09:24.353Z,Beautiful Things,Benson Boone,Fireworks & Rollerblades,180304,3xkHsmpQCBMytMJNiDf3Ii,,,,,,,,,
+2025-12-08T13:12:45.674Z,In the End,Linkin Park,Hybrid Theory (Bonus Edition),216880,60a0Rd6pjrkxjPbaKzXjfq,,,,,,,,,
+2025-12-08T13:27:06.102Z,ZU,ZETAK,ZU,188538,0l2j66xknZyOqVbwcCh4iF,,,,,,,,,
+2025-12-08T13:29:40.718Z,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),171291,2FQrifJ1N335Ljm3TjTVVf,,,,,,,,,
+2025-12-08T13:38:34.262Z,Gilimix,El Reno Renardo,Regreso al Metalverso,529600,7h0mJ78aXX6dtTU1NKidcW,,,,,,,,,
+2025-12-08T13:41:02.348Z,El Pais de Alicia,Envidia Kotxina,Difícil Ser Humano,183635,7xi20jr5Q9kMuI9ycqxcpq,,,,,,,,,
+2025-12-08T13:44:03.205Z,Sin Domesticar,Free City,Sin Domesticar,204513,0GimXD7LVxYV0GSRKpZJcP,,,,,,,,,
+2025-12-08T16:40:32.240Z,The Emptiness Machine,Linkin Park,The Emptiness Machine,190427,2PnlsTsOTLE5jnBnNe2K0A,,,,,,,,,
+2025-12-08T19:48:22.525Z,El sombrerero loco,Mägo de Oz,El sombrerero loco,270666,5W6B8o2GIICi43uDMNIFHT,,,,,,,,,
+2025-12-08T19:52:16.346Z,Sail,AWOLNATION,Megalithic Symphony,259093,7ueP5u2qkdZbIPN2YA6LR0,,,,,,,,,
+2025-12-08T19:56:18.256Z,Rockstar - 2020 Remaster,Nickelback,All The Right Reasons (15th Anniversary Expanded Edition),255493,05tlUh0E6IFks9sCQguQKN,,,,,,,,,
+2025-12-08T20:00:07.674Z,Kryptonite,3 Doors Down,The Better Life,233933,6ZOBP3NvffbU4SZcrnt1k6,,,,,,,,,
+2025-12-08T20:02:16.651Z,End of Beginning,Djo,DECIDE,159245,3qhlB30KknSejmIvZZLjOD,,,,,,,,,
+2025-12-08T20:05:09.712Z,Somewhere I Belong,Linkin Park,Meteora (Bonus Edition),213933,3fjmSxt0PskST13CSdBUFx,,,,,,,,,
+2025-12-08T20:09:10.105Z,Abracadabra,Lady Gaga,MAYHEM,223398,2LHNTC9QZxsL3nWpt8iaSR,,,,,,,,,
+2025-12-08T20:13:11.436Z,Not Like Us,Kendrick Lamar,Not Like Us,274192,6AI3ezQ4o3HUoP6Dhudph3,,,,,,,,,
+2025-12-08T20:16:02.283Z,Until I Found You,Stephen Sanchez,Easy On My Eyes,176666,6VhuP99TE6gYNQRJIlAWFD,,,,,,,,,
+2025-12-08T20:19:39.753Z,Something in the Orange,Zach Bryan,Something in the Orange,228013,3WMj8moIAXJhHsyLaqIIHI,,,,,,,,,
+2025-12-08T20:23:23.737Z,Little Bit of Love,Tom Grennan,Evering Road (Deluxe),226268,3Iba59sFmGhQ4kbCY5L8AX,,,,,,,,,
+2025-12-09T19:31:53.005Z,Iris,The Goo Goo Dolls,Dizzy up the Girl,289533,6Qyc6fS4DsZjB2mRW9DsQs,,,,,,,,,
+2025-12-09T19:36:46.541Z,The Fate of Ophelia,Taylor Swift,The Life of a Showgirl,226073,53iuhJlwXhSER5J2IYYv1W,,,,,,,,,
+2025-12-09T19:42:53.725Z,la noia,Angelina Mango,poké melodrama,189124,3nuIiyDd0pDiD5tIqccFA5,,,,,,,,,
+2025-12-09T19:45:51.795Z,Palabra Prohibida,Samuraï,Palabra Prohibida,176881,4sRulaggpSTT3mLCZsaJ5v,,,,,,,,,
+2025-12-09T20:00:40.913Z,Beso Nuclear,Samuraï,Beso Nuclear,161074,6I5XNhtSdKhOj72qcryPry,,,,,,,,,
+2025-12-09T20:03:30.955Z,Beso Nuclear,Samuraï,Beso Nuclear,161074,6I5XNhtSdKhOj72qcryPry,,,,,,,,,
+2025-12-09T20:06:30.925Z,Dejándolo Pasar,Samuraï,Dejándolo Pasar,179112,7xIo66YiwRlfh0LLweE8XT,,,,,,,,,
+2025-12-09T20:09:01.864Z,Sin Freno,Samuraï,Sin Freno,160130,2ywURcm20LeyocKwrkUr0c,,,,,,,,,
+2025-12-09T20:12:31.376Z,Tiro Al Aire,Samuraï,Tiro Al Aire,200145,1GTqOaoThQ64CQyk4MfiWy,,,,,,,,,
+2025-12-09T20:16:01.156Z,Tiro Al Aire,Samuraï,Tiro Al Aire,200145,1GTqOaoThQ64CQyk4MfiWy,,,,,,,,,
+2025-12-09T20:18:30.957Z,Mechero,Samuraï,Mechero,155392,2EJeJwsC9ApcPx8rxB5OwO,,,,,,,,,
+2025-12-09T20:21:31.141Z,Corazón Quemado,Samuraï,El Silencio Del Ruido,185706,7sOnyiXHWNvCJ9XF6uCZDK,,,,,,,,,
+2025-12-09T20:25:01.128Z,Tal para cual,Samuraï,Tal para cual,193283,20lH9g1zUQBM33qTljs4kv,,,,,,,,,
+2025-12-09T20:27:30.867Z,Baja confirmada,Samuraï,Baja confirmada,148604,2IaZrh7RPuJy9QX9OTzxuC,,,,,,,,,
+2025-12-09T20:30:01.086Z,Beso Nuclear,Samuraï,Artillería,161074,72FUGEWUO9Z5TB3ybJzOUL,,,,,,,,,
+2025-12-09T20:33:01.431Z,Quien No Quiera Que No Mire,Samuraï,El Silencio Del Ruido,174560,0ZIhzIzHV3topmEiJfP2m8,,,,,,,,,
+2025-12-09T20:35:31.164Z,El Principio de algo,La La Love You,Blockbuster,147907,10KB4HkYIpNOd0QhyohMre,,,,,,,,,
+2025-12-09T20:38:31.090Z,Pared Y Espada,Samuraï,Pared Y Espada,177048,5PbtLcDMOl5kTIc6LtMk9H,,,,,,,,,
+2025-12-10T09:04:57.822Z,Lo Que Vivimos,Samuraï,El Silencio Del Ruido,218946,5khstMoke8CiGc3K7Ln4RS,,,,,,,,,
+2025-12-10T11:10:48.054Z,Mila doinu aidien,Gatibu,Zoramena,275725,0B7x1MtFMegr6SbZaQL2oF,,,,,,,,,
+2025-12-10T11:13:59.388Z,Los tengo todos,Extremoduro,Dónde Están Mis Amigos,177960,34uk1gSxF411ra83bINKAW,,,,,,,,,
+2025-12-10T11:17:34.051Z,Cabezabajo,Extremoduro,Agila,220666,79BcjoCZCkSTYp5qTJ3zWb,,,,,,,,,
+2025-12-10T11:20:29.712Z,Relación convencional,Extremoduro,Deltoya,182373,3ByWlPzsFEU9pqClQQZ8tv,,,,,,,,,
+2025-12-10T11:26:11.454Z,Ni príncipes ni princesas,Extremoduro,Somos Unos Animales,261266,6Akcoj69QxDwMp16Y8SSw9,,,,,,,,,
+2025-12-10T11:29:31.813Z,Malos pensamientos,Extremoduro,Dónde Están Mis Amigos,194026,6EjKYTvWCqaL7p6fKgtYxU,,,,,,,,,
+2025-12-10T11:33:52.109Z,Con un latido del reloj,Extremoduro,Deltoya,224666,0J41HpWfXZbaQaEuarMxul,,,,,,,,,
+2025-12-10T11:38:31.989Z,Buitre no come alpiste,Extremoduro,"Yo, Minoría Absoluta",256706,5hUgS1LLB7o74ixqFEx70e,,,,,,,,,
+2025-12-10T11:41:47.631Z,Desidia,Extremoduro,Somos Unos Animales,270893,3UGoPGvg9ZMtcpVVsUNhmX,,,,,,,,,
+2025-12-10T11:48:11.590Z,Sin dios ni amo,Extremoduro,Dónde Están Mis Amigos,230840,757DDsFiOCwT6i20fKJl3h,,,,,,,,,
+2025-12-10T12:27:35.869Z,Golden,HUNTR/X,KPop Demon Hunters (Soundtrack from the Netflix Film),194607,1CPZ5BxNNd0n0nF4Orb9JS,,,,,,,,,
+2025-12-10T12:30:14.587Z,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),158040,3KkXRkHbMCARz0aVfEt68P,,,,,,,,,
+2025-12-10T12:33:50.273Z,Circles,Post Malone,Hollywood's Bleeding,215280,21jGcNKet2qwijlDFuPiPb,,,,,,,,,
+2025-12-10T12:38:41.908Z,Without Me,Eminem,The Eminem Show,290320,7lQ8MOhq6IN2w8EYcFNSUk,,,,,,,,,
+2025-12-10T13:04:02.251Z,Cerca del suelo,Extremoduro,"Yo, Minoría Absoluta",281320,1FKKvyrgMdJFwf0NdM7P5Q,,,,,,,,,
+2025-12-10T13:10:00.355Z,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,MONTERO,212352,5Z9KJZvQzH6PFmb8SNkxuk,,,,,,,,,
+2025-12-10T13:13:34.121Z,Beggin',Måneskin,Chosen,211560,3Wrjm47oTz2sjIgck11l5e,,,,,,,,,
+2025-12-10T13:15:53.866Z,Mood (feat. iann dior),24kGoldn,El Dorado,140525,4jPy3l0RUwlUI9T5XHBW2m,,,,,,,,,
+2025-12-10T13:21:03.598Z,J.D. la central nuclear,Extremoduro,Somos Unos Animales,89515,5rZE6DL4qV71EqoBl9W4dT,,,,,,,,,
+2025-12-10T13:24:13.097Z,Perro callejero,Extremoduro,Somos Unos Animales,179219,6Hv6wCRWToiYmeCUi87gWs,,,,,,,,,
+2025-12-10T13:28:17.362Z,Resolución,Extremoduro,Somos Unos Animales,233023,4oUYBQ1ZUk2wfVxCImKyOo,,,,,,,,,
+2025-12-10T18:00:36.858Z,La carrera,Extremoduro,Agila,136200,4JQjChfJuCwGPYTpWfIZuw,,,,,,,,,
+2025-12-10T18:03:37.128Z,Ábreme el pecho y registra,Extremoduro,Agila,210400,25ue5YVxjkihYJKpu1Lebt,,,,,,,,,
+2025-12-10T18:17:17.958Z,Pedrá,Extremoduro,Pedrá,1768080,4h40ugBk8xtnFGd79AYW8l,,,,,,,,,
+2025-12-10T18:58:12.444Z,Pedrá,Extremoduro,Pedrá,1768080,4h40ugBk8xtnFGd79AYW8l,,,,,,,,,
+2025-12-11T11:16:05.675Z,Pedrá,Extremoduro,Pedrá,1768080,4h40ugBk8xtnFGd79AYW8l,,,,,,,,,
+2025-12-11T11:20:56.069Z,A fuego,Extremoduro,"Yo, Minoría Absoluta",323226,3WK3ejrcg2sOILqcxYaykU,,,,,,,,,
+2025-12-11T11:24:56.233Z,Serenade,Dover,Devil Came to Me,234280,0xnTICdCDK4PD2ZPZ6Xeu7,,,,,,,,,
+2025-12-11T11:30:56.335Z,Nada que perder,Robe,Se nos lleva el aire,370000,3M66E9SoBkWFJxcSEv2vuO,,,,,,,,,
+2025-12-11T13:45:35.189Z,Rojitas,Extrechinato y Tu,Poesía Básica,232000,5Srks36XWpQoF47EYF7ExI,,,,,,,,,
+2025-12-11T17:11:41.294Z,Quemando tus recuerdos,Extremoduro,Somos Unos Animales,351094,2Eci1fdlsCodLzAA4v48w7,,,,,,,,,
+2025-12-11T17:25:10.005Z,Tango suicida,Extremoduro,Material defectuoso,487853,2YBo7GBtEda9t7RtcwqArt,,,,,,,,,
+2025-12-11T17:34:21.024Z,Si te vas...,Extremoduro,Material defectuoso,516666,2x59pa3xDf8hHZ4N3f5fGQ,,,,,,,,,
+2025-12-11T17:43:38.389Z,El camino de las utopías,Extremoduro,Para todos los públicos,450546,7qXpGAur9Lx3ysYBs4He6j,,,,,,,,,
+2025-12-11T17:49:41.374Z,Locura transitoria,Extremoduro,Para todos los públicos,494773,6DWAOntbxkpsgKs9iJDEhW,,,,,,,,,
+2025-12-11T17:52:42.038Z,No me calientes que me hundo - Versión 2004,Extremoduro,Grandes exitos y fracasos (Episodio 1º),172053,0Iwnl26lJCOtbyAnsIfDNW,,,,,,,,,
+2025-12-11T17:57:39.879Z,Pequeño rocanrol endémico,Extremoduro,Para todos los públicos,308080,5Wq8rq9qXAzCHbVNDighez,,,,,,,,,
+2025-12-11T18:04:39.955Z,Primer movimiento: el sueño,Extremoduro,La ley innata,363653,5d0Keu9WXiN1XZsAG88VcF,,,,,,,,,
+2025-12-11T18:15:09.830Z,Calle Esperanza s/n,Extremoduro,Material defectuoso,426706,7K8F9rBAI55yX5xBIEiD2e,,,,,,,,,
+2025-12-11T18:18:39.878Z,De acero,Extremoduro,Deltoya,223733,3bHBZyPLWwpaWPs0waC7Cb,,,,,,,,,
+2025-12-11T19:27:24.867Z,Ramón,Platero Y Tu,Coleccion,300000,6YKdxcu4BRurnt9InJGz96,,,,,,,,,
+2025-12-11T19:30:38.910Z,Correcaminos ¡Estate al loro!,Extremoduro,Agila,152973,6f6SOVV9QJjWnwART9RgQJ,,,,,,,,,
+2025-12-11T19:33:45.583Z,Sucede - Versión 2004,Extremoduro,Canciones 1989-2013,186000,4DlCtFa8erNnJvSkSBAEJH,,,,,,,,,
+2025-12-11T19:38:41.064Z,Papel secante - Instrumental,Extremoduro,Canciones sin voz,295053,4Yq2MaEUWHbkIiVDhDlssn,,,,,,,,,
+2025-12-11T19:50:03.032Z,Esclarecido,Extremoduro,Esclarecido,449962,5wvOG6Hganxlt3LVnyuuKI,,,,,,,,,
+2025-12-11T19:57:18.548Z,"Mis amigos (feat. Robe, Fito y Fitipaldis)",The Flying Rebollos,Esto Huele A Pasta,98173,3Wa4tTqFRya2tUlB3fUpgd,,,,,,,,,
+2025-12-11T20:01:38.981Z,Doniene,Gatibu,Disko infernu,253933,6fK3spY7xpqY3tIjsLJTca,,,,,,,,,
+2025-12-11T20:06:39.869Z,Mila doinu aidien,Gatibu,Zoramena,275725,0B7x1MtFMegr6SbZaQL2oF,,,,,,,,,
+2025-12-11T20:10:20.745Z,Miro La Ventana,Neurastenia,Todo Es Mentira,209586,55HPh9JTMztjnChriXVX7n,,,,,,,,,
+2025-12-11T20:13:09.681Z,Barrancos rocosos,La Gripe y Tú,Empapado en sudor,166973,6OOO2Ka3Sa5fkV0rxum1Pz,,,,,,,,,
+2025-12-11T20:16:40.832Z,Awakane,La Gripe y Tú,Empapado en sudor,204466,6M0uMJJNvA6xvVEBmULkJ6,,,,,,,,,
+2025-12-11T20:22:03.749Z,Amor Sucio,Ramone,Rompe!,156084,1S3yQtuVzlE0RH3PS5Zdah,,,,,,,,,
+2025-12-11T20:28:33.493Z,La Playa,Ramone,Rompe!,189056,0J6u7q4vYl9uJ7rXywNXWE,,,,,,,,,
+2025-12-11T20:34:34.724Z,No Tengo Ná,Tabletom,7. 000 Kilos,346760,2s3JO1gOE51oPmxkJmTTmq,,,,,,,,,
+2025-12-11T21:36:22.592Z,Puta,Extremoduro,"Yo, Minoría Absoluta",322880,30M1XJhkJdkGrgXZ1TpXSS,,,,,,,,,
+2025-12-12T11:01:53.308Z,Caída Libre (feat. Robe),Leiva,Gigante,211590,35eU9y0JOfSEt0i4jx9Bhd,,,,,,,,,
+2025-12-12T11:04:50.778Z,Interludio Para Mi Julita,Rupatrupa,Interludio Para Mi Julita,97965,0T00OXrDpCIyZK5rJ0j0Ep,,,,,,,,,
+2025-12-12T11:09:23.306Z,Kamikaze del Nido,Ciclonautas,Qué Tal?,263569,6IfabLd46PWN9CeRk1eUv4,,,,,,,,,
+2025-12-12T11:15:22.753Z,Puñales,Lülu,De Aquellos Polvos...,361840,3vDZNg8gaWAAjAdKoAiiol,,,,,,,,,
+2025-12-12T11:21:22.611Z,Calle Melancolía,Robe,Calle Melancolía,380973,3li6qqddV84LgSw9lgh0sG,,,,,,,,,
+2025-12-12T11:27:55.120Z,Entrando cruzado (feat. Robe),Platero Y Tu,Correos,242266,6y7hti9MInjsnoUElfkP1K,,,,,,,,,
+2025-12-12T11:36:10.427Z,Flores de Trinchera,Rupatrupa,Flores de Trinchera,480750,22XGfjEGJfX5gYNrj0URCZ,,,,,,,,,
+2025-12-12T12:03:15.771Z,Rojitas,Extrechinato y Tu,Poesía Básica,232000,5Srks36XWpQoF47EYF7ExI,,,,,,,,,
+2025-12-12T13:15:17.810Z,Todo Tuyo,Memoria de pez,Tocar Madera,243013,0eXKFyljj488otJ7qKG0om,,,,,,,,,
+2025-12-12T13:20:36.946Z,Julia,Memoria de pez,100 nudos por segundo,303786,2DW12H3zvHP3bunKtaV079,,,,,,,,,
+2025-12-12T13:22:39.106Z,Historias prohibidas (Nos tiramos a joder) - Versión 2004,Extremoduro,Dónde Están Mis Amigos,143386,1UBkTLvDRbdL2UpWDGRuJA,,,,,,,,,
+2025-12-12T14:19:01.741Z,Contra Todos,Robe,Contra Todos,420695,4bdWhNOeW8FULAQ9me9qt5,,,,,,,,,
+2025-12-12T17:39:11.330Z,Una y Otra Vez,Whisky Caravan,Una y Otra Vez,245640,0OMfxOUi6NTYSawehpvgDl,,,,,,,,,
+2025-12-12T18:50:50.818Z,El tren,Extremoduro,Bajo La Corteza (26 Canciones De Leño),269746,4P3yGN8HyimF7hI56x3UBG,,,,,,,,,
+2025-12-12T18:52:57.510Z,Y yo que sé,Platero Y Tu,Mucho Tequila (Un Homenaje A Tequila),122666,6XUneVYwjGVdo7AgsSFFYU,,,,,,,,,
+2025-12-13T10:13:33.277Z,Poema sobrecogido,Extremoduro,Para todos los públicos,344186,4RvwjwK1r4SbErfGGdBAke,,,,,,,,,
+2025-12-13T13:52:51.460Z,Poema sobrecogido,Extremoduro,Para todos los públicos,344186,4RvwjwK1r4SbErfGGdBAke,,,,,,,,,
+2025-12-13T13:53:42.159Z,Manué IV,Extremoduro,Para todos los públicos,30453,6aZMreXqZr1oYwNpP8Fqr5,,,,,,,,,
+2025-12-13T13:59:15.249Z,Mamá,Extremoduro,Para todos los públicos,369906,3O9xOAPwHjKKrRqL6LgTLI,,,,,,,,,
+2025-12-13T14:02:28.371Z,Mi voluntad,Extremoduro,Para todos los públicos,200733,4nF6yP9JkUadBhY50gOYUQ,,,,,,,,,
+2025-12-13T14:06:21.133Z,Hoy te la meto hasta las orejas,Extremoduro,"Yo, Minoría Absoluta",222093,1REM2DvMUO7c4bSSCowXum,,,,,,,,,
+2025-12-13T14:13:03.070Z,Pepe Botika (Dónde están mis amigos) - Versión 2004,Extremoduro,Dónde Están Mis Amigos,237973,6rwo5Arn7VJOq9O6BebEdR,,,,,,,,,
+2025-12-13T14:17:28.557Z,Sol de invierno - Versión 2004,Extremoduro,Deltoya,273333,48kn9z2EYNQ7nrfLYKM9Xz,,,,,,,,,
+2025-12-13T15:20:01.120Z,Quemando tus recuerdo - Versión 2004,Extremoduro,Somos Unos Animales,331320,5FqWmhyv7RmrbuukRQyqi7,,,,,,,,,
+2025-12-13T18:40:02.328Z,Quemando tus recuerdo - Versión 2004,Extremoduro,Somos Unos Animales,331320,5FqWmhyv7RmrbuukRQyqi7,,,,,,,,,
+2025-12-13T18:48:02.168Z,Desarraigo,Extremoduro,Material defectuoso,457920,4p16QRkQMGSuI96QeOyilU,,,,,,,,,
+2025-12-13T18:55:32.304Z,Tercer movimiento: lo de dentro,Extremoduro,La ley innata,456960,5h5aT6bWlqBS6ComDsGZ7y,,,,,,,,,
+2025-12-13T20:20:01.714Z,Otra inútil canción para la paz,Extremoduro,Material defectuoso,371053,0xIKmUQyR5TsNngsRTVQKm,,,,,,,,,
+2025-12-14T11:36:18.658Z,Otra inútil canción para la paz,Extremoduro,Material defectuoso,371053,0xIKmUQyR5TsNngsRTVQKm,,,,,,,,,
+2025-12-14T11:40:01.006Z,Amor castúo - Versión 2004,Extremoduro,Rock Transgresivo,207000,3NaJAm7PSfYAWucmYBTFv2,,,,,,,,,
+2025-12-14T11:43:34.181Z,Estoy muy bien,Extremoduro,Dónde Están Mis Amigos,211160,41MG5Jm4Yxy72auNsZFKbj,,,,,,,,,
+2025-12-14T11:47:48.174Z,La hoguera,Extremoduro,Canciones 1989-2013,236018,3GIk3bgSikulgbE8WzMM8w,,,,,,,,,
+2025-12-14T11:51:20.008Z,Romperás,Extremoduro,Rock Transgresivo,211840,6lkqcxO9nyn2lha104gXLY,,,,,,,,,
+2025-12-14T11:56:48.961Z,A fuego,Extremoduro,"Yo, Minoría Absoluta",323226,3WK3ejrcg2sOILqcxYaykU,,,,,,,,,
+2025-12-14T12:00:20.279Z,Bribriblibli - Versión 2004,Extremoduro,Dónde Están Mis Amigos,199960,68l33GWbkYY2I1ZiPodIyE,,,,,,,,,
+2025-12-14T12:02:49.280Z,Decidí - Versión 2004,Extremoduro,Rock Transgresivo,153066,4rVcBjePUVQqRAlrKuikwJ,,,,,,,,,
+2025-12-14T12:12:57.229Z,Extremaydura,Extremoduro,Rock Transgresivo,197783,4yJd2VKBjeiUzruqiF9cIV,,,,,,,,,
+2025-12-14T12:17:00.412Z,De acero,Extremoduro,Deltoya,223733,3bHBZyPLWwpaWPs0waC7Cb,,,,,,,,,
+2025-12-14T12:23:23.870Z,Puta,Extremoduro,"Yo, Minoría Absoluta",322880,30M1XJhkJdkGrgXZ1TpXSS,,,,,,,,,
+2025-12-14T12:26:27.226Z,Bribriblibli - Versión 2004,Extremoduro,Dónde Están Mis Amigos,199960,68l33GWbkYY2I1ZiPodIyE,,,,,,,,,
+2025-12-14T15:03:55.932Z,Interludio,Robe,Mayéutica,191971,7LmLjQrMxNYoM2Y6TCiuMk,,,,,,,,,
+2025-12-14T18:58:26.249Z,Interludio,Robe,Mayéutica,191971,7LmLjQrMxNYoM2Y6TCiuMk,,,,,,,,,
+2025-12-14T19:05:24.694Z,Guerrero,Robe,Lo Que Aletea en Nuestras Cabezas,379440,2STOG0u2WCpsBvPdXr4NkZ,,,,,,,,,
+2025-12-14T19:14:54.543Z,Un Suspiro Acompasado,Robe,Lo Que Aletea en Nuestras Cabezas,550626,4fE6tTCaea15gCHAHR9eJo,,,,,,,,,
+2025-12-14T19:18:24.606Z,...Y Rozar Contigo,Robe,Lo Que Aletea en Nuestras Cabezas,203440,5JCL5SDmXcn9vA3gr8EqiQ,,,,,,,,,
+2025-12-14T19:24:54.727Z,Nana Cruel,Robe,Lo Que Aletea en Nuestras Cabezas,404066,3D0ofNY5pXh2xxwx4xTALu,,,,,,,,,
+2025-12-14T19:28:54.384Z,De Manera Urgente,Robe,Lo Que Aletea en Nuestras Cabezas,227426,4SFCLTeXsqOqckf0XCNl3i,,,,,,,,,
+2025-12-14T19:38:28.923Z,Por Ser un Pervertido,Robe,Lo Que Aletea en Nuestras Cabezas,343653,363E6CguL6rpCXhd4j4e4J,,,,,,,,,
+2025-12-14T19:39:58.948Z,Ruptura Leve,Robe,Lo Que Aletea en Nuestras Cabezas,91840,4P3Kja8p9P0xDjql7zkBxm,,,,,,,,,
+2025-12-14T19:45:58.499Z,Guerrero,Robe,Lo Que Aletea en Nuestras Cabezas,379440,2STOG0u2WCpsBvPdXr4NkZ,,,,,,,,,
+2025-12-14T19:53:29.022Z,Contra Todos,Robe,Lo Que Aletea en Nuestras Cabezas,427626,4gFDQaSUj0xb1Y4zm5WCUD,,,,,,,,,
+2025-12-14T23:51:36.646Z,El hombre pájaro,Robe,Se nos lleva el aire,381000,1RO9fcejkWoqOFj6W4tFVI,,,,,,,,,
+2025-12-15T10:19:26.224Z,Emparedado,Extremoduro,Rock Transgresivo,254402,5tdcoELn1TD1gpqNnBAXt1,,,,,,,,,
+2025-12-15T10:26:12.854Z,Nada que perder,Robe,Se nos lleva el aire,370000,3M66E9SoBkWFJxcSEv2vuO,,,,,,,,,
+2025-12-15T10:29:26.154Z,Ábreme el pecho y registra,Extremoduro,Agila,210400,25ue5YVxjkihYJKpu1Lebt,,,,,,,,,
+2025-12-15T10:33:56.416Z,Todos me dicen,Extremoduro,Agila,251760,6mrYieEu2glNBDY1DBoSxs,,,,,,,,,
+2025-12-15T10:36:26.287Z,Correcaminos ¡Estate al loro!,Extremoduro,Agila,152973,6f6SOVV9QJjWnwART9RgQJ,,,,,,,,,
+2025-12-15T10:38:26.419Z,La carrera,Extremoduro,Agila,136200,4JQjChfJuCwGPYTpWfIZuw,,,,,,,,,
+2025-12-15T10:40:56.379Z,Me estoy quitando,Extremoduro,Agila,132666,3EJid44JIEbOknxjZPp42x,,,,,,,,,
+2025-12-15T10:44:56.527Z,"Adiós abanico, que llegó el aire",Extremoduro,Rock Transgresivo,217826,5XzSHaKNuyP5vKnIJ4x6E7,,,,,,,,,
+2025-12-15T10:47:57.390Z,Arrebato,Extremoduro,Rock Transgresivo,203573,4Y4KugEpdzwsZ2EXvTkJAN,,,,,,,,,
+2025-12-15T11:35:32.288Z,Jesucristo García,Extremoduro,Rock Transgresivo,290448,6SCGDAO9pBX6dmyeFEe0cm,,,,,,,,,
+2025-12-15T12:12:53.668Z,Crucifixion,Extremoduro,Agradecidos... Rosendo,182200,4rvk17vpsiyVbLOr9Y56XB,,,,,,,,,
+2025-12-15T12:15:34.085Z,Enemigo,Extremoduro,Canciones Prohibidas,158920,1wLl4C056T6oM8Rt8h8mFg,,,,,,,,,
+2025-12-15T12:23:35.926Z,"Villancico del rey de Extremadura - Vaya puta mierda de villancico, colega",Extremoduro,Canciones Prohibidas,183893,5UTsvIUx4iQ8zEtq0bxQdt,,,,,,,,,
+2025-12-15T12:28:53.071Z,Desidia,Extremoduro,Canciones 1989-2013,270893,4oiEOwH9Sxjpym4uFDRwDk,,,,,,,,,
+2025-12-15T12:30:16.076Z,J.D. la central nuclear,Extremoduro,Somos Unos Animales,89515,5rZE6DL4qV71EqoBl9W4dT,,,,,,,,,
+2025-12-15T12:33:44.225Z,V centenario,Extremoduro,Somos Unos Animales,203837,5Z44SX6QP0r9jeyqRlv5Ep,,,,,,,,,
+2025-12-15T12:38:08.073Z,Ni príncipes ni princesas,Extremoduro,Somos Unos Animales,261266,6Akcoj69QxDwMp16Y8SSw9,,,,,,,,,
+2025-12-15T12:41:07.416Z,Perro callejero,Extremoduro,Somos Unos Animales,179219,6Hv6wCRWToiYmeCUi87gWs,,,,,,,,,
+2025-12-15T13:02:46.287Z,Resolución,Extremoduro,Somos Unos Animales,233023,4oUYBQ1ZUk2wfVxCImKyOo,,,,,,,,,
+2025-12-15T13:05:46.104Z,Perro callejero,Extremoduro,Somos Unos Animales,179219,6Hv6wCRWToiYmeCUi87gWs,,,,,,,,,
+2025-12-15T13:08:47.887Z,Destrozares,Robe,"Destrozares, Canciones para el Final de los Tiempos",195000,4FHOqpXOFYSysq7KKMnTJa,,,,,,,,,
+2025-12-15T13:16:01.781Z,Del Tiempo Perdido,Robe,Del Tiempo Perdido,430671,204uPJNzsXUU3kojeYdnp7,,,,,,,,,
+2025-12-15T13:22:15.673Z,Por Encima del Bien y del Mal,Robe,Por Encima del Bien y del Mal,381805,51HGOQlOFVnK5swPEbMJN9,,,,,,,,,
+2025-12-15T19:01:35.681Z,La Canción Más Triste,Robe,La Canción Más Triste,402677,3yGwVOEfttlrsoFl0VyUH9,,,,,,,,,
+2025-12-15T19:18:53.945Z,A la sombra de mi sombra,Extrechinato y Tu,A La Sombra De Mi Sombra,250005,4dA49TwxP2fJ3TgNkBUqov,,,,,,,,,
+2025-12-15T20:04:57.868Z,Rojitas,Extrechinato y Tu,Poesía Básica,232000,5Srks36XWpQoF47EYF7ExI,,,,,,,,,
+2025-12-15T20:15:01.619Z,Entrando cruzado (feat. Robe),Platero Y Tu,Correos,242266,6y7hti9MInjsnoUElfkP1K,,,,,,,,,
+2025-12-15T20:18:39.351Z,Juliette (feat. Robe) - Versión 2005,Platero Y Tu,"Hay mucho Rock and Roll, Vol.2",217279,3w18SAKcJJIlrIYDQ2WdNp,,,,,,,,,
+2025-12-15T20:22:50.362Z,El roce de tu cuerpo,,,250093,3EPd9riN2R8Zjl6GkrxxGl,Platero Y Tu,1fQt5j7DTPuAOjdbTYgWav,,https://i.scdn.co/image/de8b73b7b71c3e5a4518d9a36b0b37b04ec5042a,Muy Deficiente,6nSNoI4zgtfMm1H9NXI4r1,1992,,https://i.scdn.co/image/ab67616d00001e024fef36ad2018304b54c6485c
+2025-12-15T20:28:53.172Z,Si miro a las nubes (feat. Robe),,,333906,0Y5vEVsxJLsXdBTTV6WW0O,Platero Y Tu,1fQt5j7DTPuAOjdbTYgWav,,https://i.scdn.co/image/de8b73b7b71c3e5a4518d9a36b0b37b04ec5042a,7,0DzshtAR827cBKDjpg00EW,1997,,https://i.scdn.co/image/ab67616d00001e0259e37c076094b02e7bce57d7
