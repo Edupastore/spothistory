@@ -8,6 +8,7 @@ CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
 CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")  # token guardado en secret
+
 DATA_PATH = "spotify_history.csv"
 CACHE_PATH = ".cache"
 
@@ -17,14 +18,16 @@ if CACHE_CONTENT and not os.path.exists(CACHE_PATH):
         f.write(CACHE_CONTENT)
 
 # ---------------------- Conexión a Spotify ----------------------
-sp = Spotify(auth_manager=SpotifyOAuth(
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    redirect_uri=REDIRECT_URI,
-    scope="user-read-recently-played",
-    cache_path=CACHE_PATH,
-    open_browser=False
-))
+sp = Spotify(
+    auth_manager=SpotifyOAuth(
+        client_id=CLIENT_ID,
+        client_secret=CLIENT_SECRET,
+        redirect_uri=REDIRECT_URI,
+        scope="user-read-recently-played",
+        cache_path=CACHE_PATH,
+        open_browser=False,
+    )
+)
 
 # ---------------------- Obtener últimas 50 reproducciones ----------------------
 data = sp.current_user_recently_played(limit=50)
@@ -37,37 +40,48 @@ for item in items:
     album = track["album"]
     artist = track["artists"][0]
 
-    # --------- Llamadas extra a la API ---------
+    # --------- Llamada extra para info completa del artista ---------
     artist_full = sp.artist(artist["id"])
 
-    rows.append({
-        # Reproducción
-        "played_at": item["played_at"],
+    # --------- Selección de imágenes 300x300 (posición 1) ---------
+    artist_images = artist_full.get("images", [])
+    artist_img = (
+        artist_images[1]["url"]
+        if len(artist_images) > 1
+        else (artist_images[0]["url"] if artist_images else None)
+    )
 
-        # Track
-        "track_name": track["name"],
-        "track_id": track["id"],
-        "duration_ms": track["duration_ms"],
+    album_images = album.get("images", [])
+    album_img = (
+        album_images[1]["url"]
+        if len(album_images) > 1
+        else (album_images[0]["url"] if album_images else None)
+    )
 
-        # Artist
-        "artist_name": artist["name"],
-        "artist_id": artist["id"],
-        "artist_genres": ", ".join(artist_full.get("genres", [])),
-        artist_images = artist_full.get("images", [])
-        artist_img = artist_images[1]["url"] if len(artist_images) > 1 else (artist_images[0]["url"] if artist_images else None)
+    rows.append(
+        {
+            # Reproducción
+            "played_at": item["played_at"],
 
-        "artist_img": artist_img,
+            # Track
+            "track_name": track["name"],
+            "track_id": track["id"],
+            "duration_ms": track["duration_ms"],
 
-        # Album
-        "album_name": album["name"],
-        "album_id": album["id"],
-        "album_release_year": album.get("release_date", "")[:4],
-        "album_label": album.get("label"),
-        album_images = album.get("images", [])
-        album_img = album_images[1]["url"] if len(album_images) > 1 else (album_images[0]["url"] if album_images else None)
+            # Artist
+            "artist_name": artist["name"],
+            "artist_id": artist["id"],
+            "artist_genres": ", ".join(artist_full.get("genres", [])),
+            "artist_img": artist_img,
 
-        "album_img": album_img
-    })
+            # Album
+            "album_name": album["name"],
+            "album_id": album["id"],
+            "album_release_year": album.get("release_date", "")[:4],
+            "album_label": album.get("label"),
+            "album_img": album_img,
+        }
+    )
 
 df_new = pd.DataFrame(rows)
 
