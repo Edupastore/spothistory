@@ -7,7 +7,7 @@ from spotipy.oauth2 import SpotifyOAuth
 CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
-CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")  # token guardado en secret
+CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")
 
 DATA_PATH = "spotify_history.csv"
 CACHE_PATH = ".cache"
@@ -40,10 +40,11 @@ for item in items:
     album = track["album"]
     artist = track["artists"][0]
 
-    # --------- Llamada extra para info completa del artista ---------
+    # --------- Llamadas completas ---------
     artist_full = sp.artist(artist["id"])
+    album_full = sp.album(album["id"])   # ← NECESARIO para label
 
-    # --------- Selección de imágenes 300x300 (posición 1) ---------
+    # --------- Imágenes 300x300 ---------
     artist_images = artist_full.get("images", [])
     artist_img = (
         artist_images[1]["url"]
@@ -51,7 +52,7 @@ for item in items:
         else (artist_images[0]["url"] if artist_images else None)
     )
 
-    album_images = album.get("images", [])
+    album_images = album_full.get("images", [])
     album_img = (
         album_images[1]["url"]
         if len(album_images) > 1
@@ -60,7 +61,6 @@ for item in items:
 
     rows.append(
         {
-            # Reproducción
             "played_at": item["played_at"],
 
             # Track
@@ -75,10 +75,10 @@ for item in items:
             "artist_img": artist_img,
 
             # Album
-            "album_name": album["name"],
-            "album_id": album["id"],
-            "album_release_year": album.get("release_date", "")[:4],
-            "album_label": album.get("label"),
+            "album_name": album_full.get("name"),
+            "album_id": album_full.get("id"),
+            "album_release_year": album_full.get("release_date", "")[:4],
+            "album_label": album_full.get("label"),
             "album_img": album_img,
         }
     )
@@ -96,4 +96,3 @@ df_total.sort_values("played_at", inplace=True)
 df_total.to_csv(DATA_PATH, index=False)
 
 print(f"Histórico actualizado: {len(df_total)} filas")
-
