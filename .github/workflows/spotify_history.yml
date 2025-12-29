@@ -24,6 +24,18 @@ jobs:
       - name: Install dependencies
         run: pip install spotipy pandas psycopg2-binary
 
+      # --- Paso para probar conexión a la base de datos ---
+      - name: Test PostgreSQL connection
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+        run: |
+          sudo apt-get update && sudo apt-get install -y postgresql-client
+          PGPASSWORD=$DB_PASSWORD psql -4 -h $DB_HOST -U $DB_USER -d $DB_NAME -p $DB_PORT -c "\conninfo"
+
       # 4️⃣ Ejecutar script de Spotify (con DB)
       - name: Run Spotify script
         env:
