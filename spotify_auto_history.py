@@ -1,16 +1,36 @@
 import os
 import pandas as pd
+import psycopg2
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 
-# ---------------------- Configuración desde secrets ----------------------
+# ---------------------- Configuración desde secrets de variables de entorno ----------------------
 CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
 CACHE_CONTENT = os.getenv("SPOTIPY_CACHE")
+DB_HOST = os.getenv("DB_HOST")
+DB_NAME = os.getenv("DB_NAME")
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_PORT = os.getenv("DB_PORT")
+
+# ---------------------- Constantes ----------------------
 
 DATA_PATH = "spotify_history.csv"
 CACHE_PATH = ".cache"
+
+# ---------------------- Conexión a la base de datos ----------------------
+
+conn = psycopg2.connect(
+    host=DB_HOST,
+    dbname=DB_NAME,
+    user=DB_USER,
+    password=DB_PASSWORD,
+    port=DB_PORT
+)
+
+cur = conn.cursor()
 
 # ---------------------- Crear archivo .cache si no existe ----------------------
 if CACHE_CONTENT and not os.path.exists(CACHE_PATH):
@@ -65,8 +85,8 @@ for item in items:
 
             # Track
             "track_name": track["name"],
-            "track_id": track["id"],
             "duration_ms": track["duration_ms"],
+            "track_id": track["id"],
 
             # Artist
             "artist_name": artist["name"],
@@ -83,6 +103,54 @@ for item in items:
         }
     )
 
+# ---------------------- Insert en Postgres ----------------------
+insert_sql = """
+INSERT INTO spotify_recently_played (
+    played_at,
+    track_name,
+    duration_ms,
+    track_id,
+    artist_name,
+    artist_id,
+    artist_genres,
+    artist_img,
+    album_name,
+    album_id,
+    album_release_year,
+    album_label,
+    album_img
+)
+VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+ON CONFLICT (played_at) DO NOTHING;
+"""
+
+for row in rows:
+    cur.execute(
+        insert_sql,
+        (
+            row["played_at"],
+            row["track_name"],
+            row["duration_ms"],
+            row["track_id"],
+            row["artist_name"],
+            row["artist_id"],
+            row["artist_genres"],
+            row["artist_img"],
+            row["album_name"],
+            row["album_id"],
+            row["album_release_year"],
+            row["album_label"],
+            row["album_img"],
+        )
+    )
+
+conn.commit()
+cur.close()
+conn.close()
+
+print(f"Insertadas {len(rows)} reproducciones (sin duplicados)")
+
+# ---------------------- Conservar una vez para ver si funciona la inserción en la base de datos ----------------------
 df_new = pd.DataFrame(rows)
 
 # ---------------------- Guardar histórico sin duplicados ----------------------
