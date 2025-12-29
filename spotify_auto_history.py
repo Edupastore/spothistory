@@ -19,7 +19,11 @@ CACHE_PATH = ".cache"
 # ---------------------- Conexión a la base de datos ----------------------
 
 conn = psycopg2.connect(
-    DATABASE_URL,
+    host="aws-1-eu-north-1.pooler.supabase.com",
+    dbname="postgres",
+    user="postgres.prwcramdanblevcpaghy",
+    password=os.getenv("DB_PASSWORD"),
+    port=5432,
     sslmode="require"
 )
 
