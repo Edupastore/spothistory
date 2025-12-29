@@ -32,6 +32,6 @@ jobs:
           SPOTIPY_REDIRECT_URI: ${{ secrets.SPOTIPY_REDIRECT_URI }}
           SPOTIPY_CACHE: ${{ secrets.SPOTIPY_CACHE }}
 
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: python spotify_auto_history.py
 
