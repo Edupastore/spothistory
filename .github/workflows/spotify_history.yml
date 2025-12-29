@@ -1,8 +1,5 @@
 name: Spotify History Fetcher
 
-permissions:
-  contents: write   # ⬅️ SIN ESTO, 403 SIEMPRE
-
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -13,12 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Clonar repo con credenciales para push
+      # 1️⃣ Clonar repo (solo lectura es suficiente)
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2️⃣ Configurar Python
       - name: Set up Python
@@ -28,33 +22,20 @@ jobs:
 
       # 3️⃣ Instalar dependencias
       - name: Install dependencies
-        run: pip install spotipy pandas
+        run: pip install spotipy pandas psycopg2-binary
 
-      # 4️⃣ Ejecutar script de Spotify
+      # 4️⃣ Ejecutar script de Spotify (con DB)
       - name: Run Spotify script
         env:
           SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
           SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
           SPOTIPY_REDIRECT_URI: ${{ secrets.SPOTIPY_REDIRECT_URI }}
           SPOTIPY_CACHE: ${{ secrets.SPOTIPY_CACHE }}
+
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_PORT: ${{ secrets.DB_PORT }}
         run: python spotify_auto_history.py
 
-      # 5️⃣ Commit + push seguro
-      - name: Commit updated CSV
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-
-          if [ -f spotify_history.csv ]; then
-            git add spotify_history.csv
-            if ! git diff --cached --quiet; then
-              git commit -m "Actualizar histórico Spotify"
-              git push
-            else
-              echo "No hay cambios para commit"
-            fi
-          else
-            echo "Archivo spotify_history.csv no encontrado"
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
