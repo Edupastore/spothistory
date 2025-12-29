@@ -1,4 +1,4 @@
-name: Spotify History Fetcher
+name: Run Spotify script
 
 on:
   schedule:
@@ -33,4 +33,5 @@ jobs:
           SPOTIPY_CACHE: ${{ secrets.SPOTIPY_CACHE }}
 
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: python spotify_auto_history.py
 
