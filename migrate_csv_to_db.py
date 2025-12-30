@@ -2,6 +2,9 @@ import pandas as pd
 import psycopg2
 import os
 
+# ---------------------- Configuración desde secrets de variables de entorno ----------------------
+DATABASE_URL = os.getenv("DATABASE_URL")
+
 conn = psycopg2.connect(
     host="aws-1-eu-north-1.pooler.supabase.com",
     dbname="postgres",
