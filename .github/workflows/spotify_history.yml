@@ -34,10 +34,3 @@ jobs:
 
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: python spotify_auto_history.py
-
-      # 5 Ejecutar script de migración de csv a bdd (una sola vez)
-      - name: Migrate CSV to DB (one-time)
-        env:
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-        run: python migrate_csv_to_db.py
-
