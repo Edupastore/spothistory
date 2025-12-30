@@ -88,7 +88,7 @@ for item in items:
             # Artist
             "artist_name": artist["name"],
             "artist_id": artist["id"],
-            "artist_genres": ", ".join(artist_full.get("genres", [])),
+            "artist_genres": artist_full.get("genres", None) or None,
             "artist_img": artist_img,
 
             # Album
