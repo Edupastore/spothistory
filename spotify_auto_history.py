@@ -146,18 +146,3 @@ cur.close()
 conn.close()
 
 print(f"Insertadas {len(rows)} reproducciones (sin duplicados)")
-
-# ---------------------- Conservar una vez para ver si funciona la inserción en la base de datos ----------------------
-df_new = pd.DataFrame(rows)
-
-# ---------------------- Guardar histórico sin duplicados ----------------------
-if os.path.exists(DATA_PATH):
-    df_old = pd.read_csv(DATA_PATH)
-    df_total = pd.concat([df_old, df_new]).drop_duplicates(subset=["played_at"])
-else:
-    df_total = df_new
-
-df_total.sort_values("played_at", inplace=True)
-df_total.to_csv(DATA_PATH, index=False)
-
-print(f"Histórico actualizado: {len(df_total)} filas")
