@@ -2,9 +2,15 @@ import pandas as pd
 import psycopg2
 import os
 
-DATABASE_URL = os.getenv("DATABASE_URL")
+conn = psycopg2.connect(
+    host="aws-1-eu-north-1.pooler.supabase.com",
+    dbname="postgres",
+    user="postgres.prwcramdanblevcpaghy",
+    password=os.getenv("DB_PASSWORD"),
+    port=5432,
+    sslmode="require"
+)
 
-conn = psycopg2.connect(DATABASE_URL)
 cur = conn.cursor()
 
 df = pd.read_csv("spotify_history.csv")
