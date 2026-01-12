@@ -33,4 +33,4 @@ jobs:
           SPOTIPY_CACHE: ${{ secrets.SPOTIPY_CACHE }}
 
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-        run: python spotify_auto_history.py
+        run: python ingestion/spotify_auto_history.py
